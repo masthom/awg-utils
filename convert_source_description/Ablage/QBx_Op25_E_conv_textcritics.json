@@ -1,0 +1,1027 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "I",
+                    "system": "",
+                    "position": "",
+                    "comment": ""
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "1",
+                    "system": "",
+                    "position": "4/8",
+                    "comment": "Vermutlich <em>rit.</em> bei 5/8 (Korrekturschicht 1). Siehe TkA."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "1",
+                    "system": "Klav.",
+                    "position": "5–6/8",
+                    "comment": "Aufteilung der Systeme vermutlich wie in B (siehe „Abweichungen in B“), Wechsel zum Violinschlüssel in Klav. u.: T. 2 vor 4/8 (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "2",
+                    "system": "Ges.",
+                    "position": "2.–3. Note",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "3",
+                    "system": "Ges.",
+                    "position": "1.–3. Note",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Ges.",
+                    "position": "5–6/8",
+                    "comment": "Tenutostriche (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "vor 4",
+                    "system": "Klav. u.",
+                    "position": "",
+                    "comment": "Violinschlüssel erst in T. 4 vor 1. Note (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "4",
+                    "system": "Ges.",
+                    "position": "1.–3. Note",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Ges.",
+                    "position": "8/8",
+                    "comment": "Tenutostrich (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "5",
+                    "system": "Ges.",
+                    "position": "1.–3. Note",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "5</p><p>bis 6",
+                    "system": "Klav.",
+                    "position": "5/8</p><p>1/8",
+                    "comment": "Aufteilung der Systeme vermutlich wie in B (siehe „Abweichungen in B“; Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "##6",
+                    "system": "(Klav.)",
+                    "position": "2. Note",
+                    "comment": "##Bleistiftskizzen in System 5 und 9##NB##</p><p>Klav. u.: A/gis."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6</p><p>bis 7",
+                    "system": "Ges.",
+                    "position": "2. Note</p><p>2/8",
+                    "comment": "Bogen (Korrekturschicht 2). Möglicherweise ist der Silbenbogen in T. 7 Ergebnis dieser Korrektur. (Siehe auch „Abweichungen in B“ T. 7 1–2/8.)"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "7",
+                    "system": "Ges.",
+                    "position": "4–6/8",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. u.",
+                    "position": "nach 1/4",
+                    "comment": "Violinschlüssel erst direkt vor 2. Note (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Ges.",
+                    "position": "1.–4. Note",
+                    "comment": "Bogen (Korrekturschicht 2). Möglicherweise ist der Silbenbogen bei 3.–4. Note Ergebnis dieser Korrektur. (Siehe auch „Abweichungen in B“ T. 8 3.–4. Note.)"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Ges.",
+                    "position": "5.–6. Note",
+                    "comment": "Tenutostriche (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Ges.",
+                    "position": "3.–5. Note",
+                    "comment": "Tenutostriche (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9</p><p>bis 10",
+                    "system": "Ges.",
+                    "position": "8/8</p><p>2/8",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "<em>rit. - - -</em> vermutlich erst bei 3/4 (Korrekturschicht 1)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Ges.",
+                    "position": "3.–5. Note",
+                    "comment": "Bogen (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11–12",
+                    "system": "",
+                    "position": "",
+                    "comment": "Vermutlich eine dreitaktige Variante (T. [11–13]) mit Taktstrichen nach T. 11 6/8 (vor T. [12]) und nach T. 12 2/8 (vor T. [13])  (Korrekturschicht 1). Erkennbare Korrekturspuren: T. 11 4/4 wurde zum Teil auf handgezogenen Systemen am Akkoladenende ergänzt; am vom Systemanfang nach rechts verschobenen Akkoladenanfang vor T. 12 steht eine großflächige Rasur; Taktstrich nach T. 12 2/8 radiert. ##genauer am Original zu erkennen?## Siehe auch SkI/4 T. [13–15]."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11",
+                    "system": "Ges.",
+                    "position": "6/8",
+                    "comment": "Tenutostrich (Korrekturschicht 2)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "<em>wieder tempo I.</em> (vermutlich Korrekturschicht 2; siehe auch Korrektur in T. 11–12)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "",
+                    "system": "Klav. u.",
+                    "position": "5/8, 3.–4. Note",
+                    "comment": "Bassschlüssel fehlt, Tonhöhen im Violinschlüssel notiert."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "II",
+                    "system": "",
+                    "position": "",
+                    "comment": ""
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "1",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##Metronomangabe auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "2",
+                    "system": "Klav. u.",
+                    "position": "1/16",
+                    "comment": "##auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "3",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "3</p><p>bis 6",
+                    "system": "Ges.",
+                    "position": "6/16</p><p>3/8",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Klav. u.",
+                    "position": "1–2/8",
+                    "comment": "##auf Rasur: Hals- und Bogenrichtung umgekehrt?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "7</p><p>bis 8",
+                    "system": "Ges.",
+                    "position": "2/8</p><p>2/8",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "Klav. u.",
+                    "position": "1/16",
+                    "comment": "##[f] auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "",
+                    "position": "4/16",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10</p><p>bis 11",
+                    "system": "Ges.",
+                    "position": "6/16</p><p>3/8",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11",
+                    "system": "Klav.",
+                    "position": "2–6/16",
+                    "comment": "##auf Rasur; darüber und darunter (System 4 und 7) radierte Bleistiftskizze ##NB!####"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Ges.",
+                    "position": "2–3/8",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Crescendo- / Decrescendogabeln auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13</p><p>bis 14",
+                    "system": "Ges.",
+                    "position": "2/8</p><p>6/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Ges.",
+                    "position": "1.–2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Rasur zwischen den Systemen: Dynamikgabel?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Ges.",
+                    "position": "1.–2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16</p><p>bis 17",
+                    "system": "Ges.",
+                    "position": "3/8</p><p>6/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. u.",
+                    "position": "3/8",
+                    "comment": "##[f] auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16</p><p>bis 17",
+                    "system": "Klav. u.",
+                    "position": "3/8</p><p>1/16",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "18</p><p>bis 19",
+                    "system": "Ges.",
+                    "position": "2/16</p><p>2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "19",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "20",
+                    "system": "Ges.",
+                    "position": "1.–2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "21",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "23–24",
+                    "system": "",
+                    "position": "",
+                    "comment": "##rit. - - - tempo auf Rasur (bis Ende T. 24)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "23",
+                    "system": "Ges.",
+                    "position": "2/16–2/8#?#",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "23</p><p>bis 24",
+                    "system": "Klav. o.",
+                    "position": "6/16</p><p>1/16",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "24",
+                    "system": "Klav. u.",
+                    "position": "2/8",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "25</p><p>bis 26",
+                    "system": "Ges.",
+                    "position": "1. Note</p><p>3/8",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "26",
+                    "system": "",
+                    "position": "",
+                    "comment": "##rit. auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "27",
+                    "system": "Klav.",
+                    "position": "2.–3. Note",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "27</p><p>bis 28",
+                    "system": "Ges.",
+                    "position": "4/16</p><p>2/16 / 2/8 #?#",
+                    "comment": "Bogen. ##Crescendo- und Decrescendogabeln auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "27–28",
+                    "system": "Klav.",
+                    "position": "Taktwechsel",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "29",
+                    "system": "Ges.",
+                    "position": "2–3/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "29</p><p>bis 30",
+                    "system": "Ges.",
+                    "position": "4/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "29–30",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "30",
+                    "system": "",
+                    "position": "5/16",
+                    "comment": "##tempo auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "30</p><p>bis 31",
+                    "system": "Ges.",
+                    "position": "6/16</p><p>3/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "31",
+                    "system": "",
+                    "position": "2/16",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "32",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##Geltungsstrichelung auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "33",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##langsamer auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "33",
+                    "system": "Ges.",
+                    "position": "1.–2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "33",
+                    "system": "Ges.",
+                    "position": "5–6/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "34",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Rasur? Bogen 2–4/16? Staccato-Punkt zu 4/16 auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "34",
+                    "system": "Ges.",
+                    "position": "4/16–3/8",
+                    "comment": "Bogen. Tenuto-Strich zu 3/8 auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "35",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "35",
+                    "system": "Ges.",
+                    "position": "2–4/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "36–37",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "37",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur.##</p><p>##unter dem Takt (System 12–13) Bleistiftnotiz, radiert:</p><p><sup>?</sup><em>84</em><sup>?</sup> [xxx] <em>1/2</em> | [xxx] | <em>5?</em>##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "37",
+                    "system": "Ges.",
+                    "position": "1.–2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "38",
+                    "system": "",
+                    "position": "3/16",
+                    "comment": "##<em>immer langsamer</em> auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "38",
+                    "system": "Klav. o.",
+                    "position": "3/8",
+                    "comment": "##[p] auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "39",
+                    "system": "Ges.",
+                    "position": "1.–3. Note",
+                    "comment": "Bogen. Tenuto-Strich zu 3/8 auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "39",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "40",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##Rasur über Akkolade: Tempo-Bezeichnung?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "40",
+                    "system": "Ges.",
+                    "position": "2–5/16",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "40",
+                    "system": "Klav.",
+                    "position": "4–6/16",
+                    "comment": "##[pp], Decrescendogabel auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "41",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##verlöschend auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "41",
+                    "system": "Ges.",
+                    "position": "1.–3. Note",
+                    "comment": "Bogen. Silbenbogen bei 2.–3. Note auf Rasur.</p><p>[pp], Crescendogabel."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "nach 42",
+                    "system": "",
+                    "position": "",
+                    "comment": "##Bleistiftnotiz nach Doppelstrich, radiert?##</p><p><em>24 3 1/2</em>"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "III",
+                    "system": "",
+                    "position": "",
+                    "comment": ""
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "4–6",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur.##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9</p><p>bis 14",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10–11",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. auf Rasur## ##Sk: calando##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13</p><p>bis 14",
+                    "system": "Klav.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "##Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15</p><p>bis 16",
+                    "system": "Ges.",
+                    "position": "2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15–21",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##Rasuren? radierte Bleistifteintragung in T. 19?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "17",
+                    "system": "",
+                    "position": "2/4",
+                    "comment": "##viel mäßiger auf Rasur (von Taktanfang)## ##Sk: tempo##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "17</p><p>bis 20",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "20",
+                    "system": "",
+                    "position": "",
+                    "comment": "##Rasur über der Akkolade: Tempobezeichnung?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "21",
+                    "system": "Ges.",
+                    "position": "1/4",
+                    "comment": "Viertelnote e<sup>2</sup> mit Ligaturbogen von T. 20 2/4."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "22",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. - - - auf Rasur## ##Sk: calando##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "22–24",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "28",
+                    "system": "",
+                    "position": "",
+                    "comment": "##Rasur über der Akkolade: Tempobezeichnung?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "29–31",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "#rit.- - - auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "29</p><p>bis 30",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "31",
+                    "system": "",
+                    "position": "2/4",
+                    "comment": "##wieder viel mäßiger auf Rasur?###"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "31</p><p>bis 33",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>1/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "33</p><p>bis 34",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "34",
+                    "system": "Klav. o.",
+                    "position": "1.–2. Note",
+                    "comment": "##auf Rasur, im System darüber Bleistiftskizze##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "35",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. - - - auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "35",
+                    "system": "Klav. u.",
+                    "position": "1/4",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "35</p><p>bis 36",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "37",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##tempo I. auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "37</p><p>bis 38",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "39",
+                    "system": "",
+                    "position": "2/4",
+                    "comment": "##rit. - - - auf Rasur (ab Taktanfang)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "39</p><p>bis 41",
+                    "system": "Ges.",
+                    "position": "2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "42</p><p>bis 45",
+                    "system": "Ges.",
+                    "position": "1. Note</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "43",
+                    "system": "Klav. u.",
+                    "position": "1.–2. Note",
+                    "comment": "##auf Rasur## ##Sk: h–b1##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "46</p><p>bis 49",
+                    "system": "Ges.",
+                    "position": "1. Note</p><p>2. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "48</p><p>bis 49",
+                    "system": "Ges.",
+                    "position": "2. Note</p><p>2. Note",
+                    "comment": "##Drecrescendogabel auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "48</p><p>bis 49",
+                    "system": "Klav.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "##Drecrescendogabel auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "50</p><p>bis 51",
+                    "system": "Ges.",
+                    "position": "1. Note",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "51",
+                    "system": "",
+                    "position": "2/4",
+                    "comment": "##tempo auf Rasur (ab Taktanfang)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "51",
+                    "system": "Klav. u.",
+                    "position": "2/4",
+                    "comment": "##Rasur am oberen Rand des Notenhalses## ##Sk: ges?#"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "55",
+                    "system": "Klav. o.",
+                    "position": "vor 2/4",
+                    "comment": "##Rasur## ##Sk: Vorschlag e<sup>1</sup>##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "56",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##Rasur über der Akkolade: Tempobezeichnung?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "56",
+                    "system": "Ges.",
+                    "position": "2/4",
+                    "comment": "##[ff] auf Rasur## ##Sk: [f]##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "57",
+                    "system": "",
+                    "position": "",
+                    "comment": "##Rasur über der Akkolade: Tempobezeichnung?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "57",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur## Sk: !##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "58</p><p>bis 60",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen. ##Decrescendogabel auf Rasur?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "61",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##wieder viel mäßiger auf Rasur (bis Ende T. 33)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "61</p><p>bis 63",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "62</p><p>bis 63",
+                    "system": "Klav. o.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "63</p><p>bis 64",
+                    "system": "Klav. o.",
+                    "position": "1/4</p><p>1/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "65</p><p>bis 68",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>1/4",
+                    "comment": "Bogen. ##2 Bögen?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "67",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. - - - auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "67–68",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur## ##Sk: !##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "69",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "## - - - auf Rasur (bis tempo)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "69</p><p>bis 74",
+                    "system": "Ges.",
+                    "position": "2/4</p><p>2/4",
+                    "comment": "Bogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "71–73",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "##auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "73",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "##rit. - - - auf Rasur##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "74",
+                    "system": "Klav.",
+                    "position": "2/4",
+                    "comment": "Ende des Bogens in T. 75 1/4."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "75</p><p>bis 76",
+                    "system": "Ges.",
+                    "position": "2/4",
+                    "comment": "Ligaturbogen zu Notenkopf b1 in T. 76. Direkt dnach Ansatz zu Notenkopf g2."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "76",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "Cresc.- / Decresc. auf Rasur? ##hängt mit oberer Korr. zusammen?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "76",
+                    "system": "",
+                    "position": "2/4",
+                    "comment": "##tempo I. [...] auf Rasur (ab Taktanfang)##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "nach 78",
+                    "system": "",
+                    "position": "",
+                    "comment": "<em>2’</em> nach dem Doppeltaktstrich mit Bleistift, radiert."
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
