@@ -1,0 +1,103 @@
+{
+    "sources": [
+        {
+            "id": "source_I",
+            "siglum": "I",
+            "siglumAddendum": "",
+            "type": "Autograph von „Im Morgentaun“ M 136: Textfassung 2.",
+            "location": "US-Wc, Moldenhauer Archives, Box-Folder 58/9[c].",
+            "description": {
+                "desc": [
+                    "1 Bogen (Bl. 1/2). Bl. 2v bis auf eine archivalische Eintragung oben links mit Bleistift (<em>Op 3 # 4 | p</em>) unbeschriftet. Abrisse an den Außenecken unten."
+                ],
+                "writingMaterial": "Notenpapier, 12 Systeme, Format: hoch 347 × 270 mm, kein Firmenzeichen.",
+                "writingInstruments": {
+                    "main": "schwarze Tinte",
+                    "secondary": [
+                        "Bleistift",
+                        "grüner und roter Buntstift",
+                        "rote Tinte"
+                    ]
+                },
+                "title": "<em>VI. </em>[Mitte] <em>Stefan George VII. Ring </em>[rechts]<em> | Anton von Webern op 2</em>[→<em>3</em>]<em> N<sup>o</sup> 6</em> [rechts] auf Bl. 1<sup>r</sup> System 1–2 mit roter Tinte, Überschreibung von <em>2</em> zu <em>3</em> mit Bleistift, <em>N<sup>o</sup> 6</em> ergänzt mit schwarzer Tinte.",
+                "date": "",
+                "pagination": "",
+                "measureNumbers": "",
+                "instrumentation": "",
+                "annotations": "",
+                "content": [
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "Autograph von Autograph von „Im Morgentaun“ M 136: Textfassung 2",
+                        "folios": [
+                            {
+                                "folio": "1r",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "3–6",
+                                            "measure": "1",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "8–11",
+                                            "measure": "2–3",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "1v",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–4",
+                                            "measure": "4–5",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–10",
+                                            "measure": "6–7",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "2r",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–4",
+                                            "measure": "8–9",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "6–9",
+                                            "measure": "10",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "sources": [
+        {
+            "id": "source_D",
+            "siglum": "D",
+            "siglumAddendum": "",
+            "type": "Fragment von „Im Morgentaun“ M 136: Textfassung 1.",
+            "location": "CH-Bps, Sammlung Anton Webern.",
+            "description": {
+                "desc": [
+                    "1 Blatt (Bl. 1). Archivalisch mit Bleistift paginiert von <em>[1]</em> bis <em>[2]</em> unten rechts (recto) oder links (verso). Bl. 1<sup>v</sup> (bis auf die archivalische Paginierung) unbeschriftet. Rechteckige Ausschneidungen am linken (System 17–18) und unteren (System 21 bis unten, System 19 bis unten) Rand. Rissspuren am rechten Rand: von Bogen abgetrennt."
+                ],
+                "writingMaterial": "Notenpapier, 22 Systeme, Format: hoch ## × ## mm, Firmenzeichen: [JE] | <em>No. 7 | 22 linig.</em> auf Bl. 1v unten links.",
+                "writingInstruments": {
+                    "main": "schwarze Tinte",
+                    "secondary": []
+                },
+                "title": "",
+                "date": "",
+                "pagination": "",
+                "measureNumbers": "",
+                "instrumentation": "",
+                "annotations": "",
+                "content": [
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "Fragment von „Im Morgentaun“ M 136 Fassung 1.",
+                        "folios": [
+                            {
+                                "folio": "1r",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "5–8",
+                                            "measure": "1–2",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

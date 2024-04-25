@@ -1,0 +1,88 @@
+{
+    "sources": [
+        {
+            "id": "source_J",
+            "siglum": "J",
+            "siglumAddendum": "",
+            "type": "Autograph von „Kahl reckt der Baum“ M 137: Textfassung 4.",
+            "location": "US-Wc, Moldenhauer Archives, Box-Folder 58/9[d].",
+            "description": {
+                "desc": [
+                    "1 Blatt (Bl. 1). Archivalische Eintragung recto oben rechts mit Bleistift (<em>Op 3 No 5</em>). Rissspuren am linken Rand: von Bogen abgetrennt."
+                ],
+                "writingMaterial": "Notenpapier, 12 Systeme, Format: hoch 347 × 266 mm, Firmenzeichen: [JE] | <em>Protokoll. Schutzmarke | No. 2 | 12 linig.</em> recto unten links.",
+                "writingInstruments": {
+                    "main": "schwarze Tinte",
+                    "secondary": [
+                        "Bleistift",
+                        "roter Buntstift"
+                    ]
+                },
+                "title": "",
+                "date": "",
+                "pagination": "",
+                "measureNumbers": "",
+                "instrumentation": "",
+                "annotations": "",
+                "content": [
+                    {
+                        "item": "",
+                        "itemLinkTo": "",
+                        "itemDescription": "Autograph von „Kahl reckt der Baum“ M 137: Textfassung 4",
+                        "folios": [
+                            {
+                                "folio": "1r",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "1–3",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "4–6",
+                                            "measure": "4–6",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "7–9",
+                                            "measure": "7–9",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            },
+                            {
+                                "folio": "1v",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "1–3",
+                                            "measure": "10–12",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "5–7",
+                                            "measure": "13–16",
+                                            "linkTo": ""
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
