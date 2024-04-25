@@ -56,7 +56,7 @@ class WritingInstruments(TypedDict):
 class Description(TypedDict):
     """A typed dictionary that represents a description of a source description."""
     desc: List[str]
-    writingMaterial: str
+    writingMaterialString: str
     writingInstruments: WritingInstruments
     title: str
     date: str
@@ -137,7 +137,7 @@ emptySourceDescription: SourceDescription = {
 
 emptyDescription: Description = {
     "desc": [],
-    "writingMaterial": "",
+    "writingMaterialString": "",
     "writingInstruments": {
         "main": "",
         "secondary": []
@@ -451,7 +451,7 @@ def _get_description(paras: List[Tag], source_id: str) -> Description:
 
     # Define labels and corresponding keys in the description dictionary
     description_labels_keys = [
-        ('Beschreibstoff:', 'writingMaterial'),
+        ('Beschreibstoff:', 'writingMaterialString'),
         ('Schreibstoff:', 'writingInstruments'),
         ('Titel:', 'title'),
         ('Datierung:', 'date'),
@@ -739,7 +739,9 @@ def _get_item(para: Tag) -> ContentItem:
     stripped_para_text = _strip_by_delimiter(para.text, delimiter)
 
     if len(stripped_para_content) > 1:
-        if para_content.find('strong') and stripped_para_text[0].startswith('M '):
+        if (para_content.find('strong') and
+            (stripped_para_text[0].startswith('M ') or
+             stripped_para_text[0].startswith('M* '))):
             # Extract itemLabel
             item_label = stripped_para_text[0].strip()
 
@@ -750,7 +752,7 @@ def _get_item(para: Tag) -> ContentItem:
                 item_link_to = 'SkRT'
             # In all other cases, link to the id created from the itemLabel
             else:
-                item_link_to = item_label.replace(' ', '_').replace('.', '_')
+                item_link_to = item_label.replace(' ', '_').replace('.', '_').replace('*', 'star')
 
         # Extract itemDescription
         # (re-add delimiter that was removed in the stripping action above
