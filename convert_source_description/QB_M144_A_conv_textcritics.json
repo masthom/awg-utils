@@ -1,0 +1,160 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "3",
+                    "system": "Ges.",
+                    "position": "1. Note",
+                    "comment": "Text: Kleinschreibung <em>gott</em> korrigiert zu <em>Gott</em>."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "4",
+                    "system": "Ges., Klav.",
+                    "position": "8/8",
+                    "comment": "Auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "5",
+                    "system": "Klav. o.",
+                    "position": "1/8",
+                    "comment": "{{ref.getGlyph('[a]')}} zu h überschreibt {{ref.getGlyph('[b]')}} zu b ##mit Bleistift? dann ET: b/g1##."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "5",
+                    "system": "Klav. u.",
+                    "position": "2/4",
+                    "comment": "Viertelpause in Unterstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Klav. u.",
+                    "position": "2/8",
+                    "comment": "Unterstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Klav. u.",
+                    "position": "2/4–5/8",
+                    "comment": "Oberstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Ges.",
+                    "position": "5/8",
+                    "comment": "{{ref.getGlyph('[b]')}} überschreibt [n]."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "7",
+                    "system": "Ges.",
+                    "position": "4/8",
+                    "comment": "Text: Kleinschreibung <em>mich</em> korrigiert zu <em>Mich</em>."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "7",
+                    "system": "Klav. u.",
+                    "position": "4. Note bis 6/8",
+                    "comment": "Oberstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Ges.",
+                    "position": "1/8",
+                    "comment": "{{ref.getGlyph('[a]')}} überschreibt {{ref.getGlyph('[#]')}}."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "Klav. u.",
+                    "position": "2–4/8",
+                    "comment": "Unter- und Oberstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "Klav. u.",
+                    "position": "6/8",
+                    "comment": "Unter- und Oberstimmenschicht auf Rasur. </p><p>{{ref.getGlyph('[b]')}} zu B<sub>1</sub> überschreibt {{ref.getGlyph('[a]')}} (?)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Klav. o.",
+                    "position": "",
+                    "comment": "Fortführung des Bogens von T. 11 auf Rasur. Ante correcturam vermutlich: Ende des Bogens bis Taktende (vor Akkoaldenwechsel)."
+                }
+            ],
+            "linkBoxes": []
+        },
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6–8",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "##M 144_NB1##</p><p>über dem System. </p><p>T. 6 4. Note: Akzidenz mehrfach überschrieben und nicht eindeutig zu entziffern; T. 7 2/4: Viertelnote überschreibt Achteltriole, folgende triolische Achtelpause und Achtelnote gestrichen; T. 8 6.–8. Note: Entzifferung nicht eindeutig."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. u.",
+                    "position": "2/8",
+                    "comment": "{{ref.getGlyph('[b]')}} zu b ergänzt."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. u.",
+                    "position": "2/4",
+                    "comment": "{{ref.getGlyph('[a]')}} zu c<sup>1</sup> ergänzt."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Klav. o.",
+                    "position": "4/8",
+                    "comment": "f<sup>2</sup> korrigiert zu e<sup>2</sup>. ##Oder zu Korr. 1?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "##M 144_NB2##</p><p>über dem System. </p><p>5. Note:Viertelnote überschreibt Achtelnote; 6. Note: gestrichen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "14",
+                    "system": "Ges.",
+                    "position": "1–4/8",
+                    "comment": "Triolenziffer zu 1–3/8, 4/8 überschrieben zu Viertelpause."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "14–15",
+                    "system": "Ges., Klav.",
+                    "position": "",
+                    "comment": "Zuerst: <em>8 tiefer</em> zu T. 15 2/8 Klav.</p><p>Dann: T. 15 eingekreist, Fermaten zu T. 14 Klav. o. und u. letzte Note sowie Doppeltaktstrich nach T. 14 mit rotem Buntstift."
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}

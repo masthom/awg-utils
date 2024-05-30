@@ -1,0 +1,209 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "2",
+                    "system": "Klav.",
+                    "position": "1. Pause Klav. o.",
+                    "comment": "Auf Tektur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. u.",
+                    "position": "3/16",
+                    "comment": "Notenkopf von {{ref.getGlyph('[a]')}}h rasiert, {{ref.getGlyph('[a]')}} nicht rasiert. Siehe TkA."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. o.",
+                    "position": "2/8",
+                    "comment": "{{ref.getGlyph('[p]')}} überschrieben zu {{ref.getGlyph('[f]')}} mit Tinte."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Klav. u.",
+                    "position": "2. Note",
+                    "comment": "{{ref.getGlyph('[a]')}} überschrieben zu {{ref.getGlyph('[b]')}} mit Tinte."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav. u.",
+                    "position": "Taktanfang",
+                    "comment": "<em>##</em>Rasur im System?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav. o.",
+                    "position": "1. Note",
+                    "comment": "a<sup>1</sup>/f<sup>2</sup> auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. u.",
+                    "position": "3/16",
+                    "comment": "Auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. u.",
+                    "position": "5. Note",
+                    "comment": "Auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Ges.",
+                    "position": "5. Note",
+                    "comment": "<em>ganz zart</em> auf Rasur."
+                }
+            ],
+            "linkBoxes": []
+        },
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Ges.",
+                    "position": "4/8",
+                    "comment": "Notenkopf als Kreuz ausgefüllt zu Notenkopf, <em>Anm.</em> über der Note und <em>Anmerkung: zwischen f und e</em> über dem Takt gestrichen mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "6",
+                    "system": "Klav. o.",
+                    "position": "6/16",
+                    "comment": "<em>linke Hand</em> gestrichen mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. o.",
+                    "position": "3/16",
+                    "comment": "{{ref.getGlyph('[a]')}} zu g<sup>2</sup> überschrieben zu {{ref.getGlyph('[#]')}} zu gis<sup>2</sup> mit Bleistift. Siehe TkA."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. o.",
+                    "position": "3/8",
+                    "comment": "Staccato-Punkt ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. o.",
+                    "position": "8/16",
+                    "comment": "Staccato-Punkt ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. o.",
+                    "position": "8–9/16",
+                    "comment": "Balken gestrichen und korrigiert zu Fähnchen mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. u.",
+                    "position": "8/16",
+                    "comment": "Staccato-Punkt ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Klav. o.",
+                    "position": "9/16",
+                    "comment": "Staccato-Punkt ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. o.",
+                    "position": "2/8",
+                    "comment": "Staccato-Punkt ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11</p><p>bis 12",
+                    "system": "Klav.",
+                    "position": "2. Note</p><p>1. Note",
+                    "comment": "<em>Ped</em> und Geltungsstrich ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Klav.",
+                    "position": "(3. Note)</p><p>bis Taktende",
+                    "comment": "<em>Ped</em> ##Höhe Klav. o. 2. Note## und Geltungsstrich ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav. o.",
+                    "position": "1. Note",
+                    "comment": "Arpeggio-Schlange ergänzt mit Bleistift.</p><p>{{ref.getGlyph('[pp]')}} überschrieben zu {{ref.getGlyph('[ppp]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav. u.",
+                    "position": "1. Note",
+                    "comment": "<em>Pedal</em> gestrichen mit Bleistift und <em>Ped</em> am Taktanfang mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "13",
+                    "system": "Klav. o./u.",
+                    "position": "letzte Note",
+                    "comment": "Arpeggio-Schlangen ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "",
+                    "position": "Taktanfang",
+                    "comment": "<em>etwas zögernd</em> ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. u.",
+                    "position": "1. Note",
+                    "comment": "<em>Pedal</em> gestrichen mit Bleistift und <em>Ped</em> in T. 15 9/16 mit Bleistift. (Siehe auch Korrektur in T. 15 9/16.)"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. u.",
+                    "position": "1.–3. Note",
+                    "comment": "C ##A1?## und Balken gestrichen mit Bleistift und rotem Buntstift, 1. Note überschrieben zu Viertelnote, 3. Note (cis) überschrieben zu Achtelnote mit Fähnchen mit Bleistift, Triolenziffer mit Bleistift nachgezogen."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. o./u.",
+                    "position": "(2/4)",
+                    "comment": "Triolische Achtelnote und Viertelpause korrigiert zu Achtelnote und Achtelpause mit Bleistift und rotem Buntstift."
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}

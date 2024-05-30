@@ -1,0 +1,90 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "",
+                    "position": "",
+                    "comment": "Auf Tektur. </p><p>Darauf: Ges. 4.–5. Note: Kleinschreibung <em>fin-stern</em> korrigiert zu <em>Fin-stern</em>. </p><p>Siehe auch Korrekturschicht 2 Klav. u. 4/16."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "12",
+                    "system": "Klav. o.",
+                    "position": "13/16",
+                    "comment": "{{ref.getGlyph('[b]')}} nachgezogen mit schwarzer Tinte."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "18",
+                    "system": "Ges.",
+                    "position": "3.–5. Note",
+                    "comment": "Kleinschreibung <em>be-zeu-ge</em> korrigiert zu <em>Be-zeu-ge</em>. Siehe TkA."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "21</p><p>bis 22",
+                    "system": "Klav.",
+                    "position": "",
+                    "comment": "Auf Tektur. </p><p>Siehe auch Korrekturschicht 2 T. 20 2/2 bis T. 21 Klav. u."
+                }
+            ],
+            "linkBoxes": []
+        },
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "1",
+                    "system": "Klav. u.",
+                    "position": "##6.## Note",
+                    "comment": "{{ref.getGlyph('[a]')}} zu C1/C mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "7</p><p>bis 8",
+                    "system": "",
+                    "position": "(4/8)</p><p>(2/8)",
+                    "comment": "<em>rit. - - -</em> über Klav. o. mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. u.",
+                    "position": "4/16",
+                    "comment": "{{ref.getGlyph('[a]')}} mit Bleistift. (Siehe Korrekturschicht 1: auf Tektur.)"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "10",
+                    "system": "Klav. u.",
+                    "position": "3/8",
+                    "comment": "{{ref.getGlyph('[a]')}} zu c<sup>1</sup> mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11",
+                    "system": "Klav. o.",
+                    "position": "6/32",
+                    "comment": "{{ref.getGlyph('[a]')}} zu c<sup>1</sup> mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "20</p><p>bis 21",
+                    "system": "Klav. u.",
+                    "position": "2/2",
+                    "comment": "Ergänzung in Kleinstich: </p><p>##M145_NB##</p><p>T. 21 1/4: Halbe Note überschrieben zu Viertelnote; T. 21 3–4/4: eingekreist mit Bleistift. (Siehe Korrekturschicht 1 T. 21–22: auf Tektur.)"
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}

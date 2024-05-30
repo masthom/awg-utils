@@ -1,0 +1,223 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "1",
+                    "system": "Klav. u.",
+                    "position": "1. Note",
+                    "comment": "Unterstimmenschicht: auf Rasur. Ante correcturam vermutlich: Cis/cis."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "8",
+                    "system": "Ges.",
+                    "position": "4/8",
+                    "comment": "Text: Kleinschreibung <em>als</em> überschrieben zu <em>Als</em>."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Klav. o.",
+                    "position": "3/8",
+                    "comment": "Achtelfähnchen rasiert."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "11",
+                    "system": "Klav. o.",
+                    "position": "2–8/8",
+                    "comment": "Rasur unter dem System. Ante correcturam vermutlich: Fortführung des Bogens T. 10 1. Note bis T. 11 2/8. A T. 10–11: Alle Notenhälse nach oben, alle Bögen unter den Noten."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. o.",
+                    "position": "1–3/4",
+                    "comment": "Decrescendogabel auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "22",
+                    "system": "Klav. u.",
+                    "position": "3/8",
+                    "comment": "{{ref.getGlyph('[ff]')}} überschreibt {{ref.getGlyph('[f]')}}."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "23",
+                    "system": "Klav. u.",
+                    "position": "3. Note",
+                    "comment": "{{ref.getGlyph('[p]')}} überschreibt {{ref.getGlyph('[pp]')}}."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "26",
+                    "system": "Klav. u.",
+                    "position": "2/2",
+                    "comment": "Nach oben gehalste Halbe Note B überschreibt Viertelnote B, vermutlich nach unten gehalst (Rasur)."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "28",
+                    "system": "Klav. u.",
+                    "position": "1/4, 1/2",
+                    "comment": "Auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "30",
+                    "system": "Klav. u.",
+                    "position": "",
+                    "comment": "Unterstimmenschicht auf Rasur."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "nach 30",
+                    "system": "",
+                    "position": "",
+                    "comment": "Ein zusätzlicher Takt (T. [31A]), rasiert."
+                }
+            ],
+            "linkBoxes": []
+        },
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "9",
+                    "system": "Ges.",
+                    "position": "4/8–8/8",
+                    "comment": "##M144_NB1## </p><p>am rechten Seitenrand mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "14",
+                    "system": "Klav. o.",
+                    "position": "4/4",
+                    "comment": "{{ref.getGlyph('[p]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "14</p><p>bis 15",
+                    "system": "Klav. o.",
+                    "position": "4/4</p><p>1/4",
+                    "comment": "Ligaturbögen mit Bleistift.##?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "nach 14",
+                    "system": "Ges.",
+                    "position": "",
+                    "comment": "<em>g gis</em> am rechten Seitenrand mit Bleistift. Bezieht sich entweder auf T. 13 7–8/8 oder T. 14 2.–3. Note?"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. u.",
+                    "position": "1. Note",
+                    "comment": "{{ref.getGlyph('[p]')}} überschreibt {{ref.getGlyph('[f]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. u.",
+                    "position": "1.–2. Note",
+                    "comment": "Crescendogabel mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. u.",
+                    "position": "3.–4. Note",
+                    "comment": "{{ref.getGlyph('[f]')}} zwischen den Noten überschreibt Decrescendogabel mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "15",
+                    "system": "Klav. o.",
+                    "position": "4/4",
+                    "comment": "{{ref.getGlyph('[f]')}} korrigiert zu [mf] mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. u.",
+                    "position": "2.–6. Note",
+                    "comment": "[mf] zu 2. Note, Decrescendogabel 2.–4. Note, {{ref.getGlyph('[p]')}} zu 4. Note, Crescendogabel 4.–6. Note überschreibt Crescendogabel mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. u.",
+                    "position": "3.–4. Note",
+                    "comment": "Ligaturbogen mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16",
+                    "system": "Klav. o.",
+                    "position": "3/4",
+                    "comment": "{{ref.getGlyph('[p]')}} mit Bleistift.##?##"
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "16</p><p>bis 17",
+                    "system": "Klav. o.",
+                    "position": "4/4</p><p>1/4",
+                    "comment": "Zuerst: Crescendogabel T. 16 4/4 bis T. 17 1/4 und {{ref.getGlyph('[f]')}} T. 17 1/4 gestrichen mit Bleistift. </p><p>Dann: Crescendogabel T. 16 4/4 bis T. 17 4/4 ergänzt mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "17",
+                    "system": "Klav. o.",
+                    "position": "3. Note",
+                    "comment": "{{ref.getGlyph('[pp]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "18",
+                    "system": "Ges.",
+                    "position": "4/8",
+                    "comment": "{{ref.getGlyph('[a]')}} mit Bleistift und nachgezogen mit Tinte."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "18",
+                    "system": "Ges., </p><p>Klav. o.",
+                    "position": "5/8",
+                    "comment": "Horizontaler Strich zwischen den Systemen mit Bleistift, Bezug und Bedeutung (Tenuto?) unklar."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "20",
+                    "system": "Ges.",
+                    "position": "4/8",
+                    "comment": "{{ref.getGlyph('[a]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "21",
+                    "system": "Ges.",
+                    "position": "2/8",
+                    "comment": "{{ref.getGlyph('[a]')}} mit Bleistift."
+                },
+                {
+                    "svgGroupId": "TODO",
+                    "measure": "24",
+                    "system": "Ges.",
+                    "position": "1/8",
+                    "comment": "{{ref.getGlyph('[a]')}} mit Bleistift."
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
