@@ -179,3 +179,4 @@ cython_debug/
 # System files
 .DS_Store
 Thumbs.db
+convert_source_description/KV_Op3_A_conv.docx
