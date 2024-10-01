@@ -991,13 +991,70 @@
       ]
     },
     {
-      "id": "",
-      "label": "",
-      "description": [],
+      "id": "source_Ee_corr3",
+      "label": "Korrekturen 3 in <strong>E<sup>e</sup></strong> (mit schwarzer Tinte ggf. auf Rasur)",
+      "description": [
+        "Die Beschreibung der Korrekturen bezieht sich auf „Kahl reckt der Baum“ M 137: Textfassung 2."
+      ],
       "comments": [
         {
-          "blockHeader": "14",
-          "blockComments": []
+          "blockHeader": "",
+          "blockComments": [
+            {
+              "measure": "2",
+              "system": "Ges.",
+              "position": "5/8",
+              "comment": "fis<sup>1</sup> geändert zu ges<sup>1</sup>."
+            },
+            {
+              "measure": "3",
+              "system": "Ges.",
+              "position": "1–2/8",
+              "comment": "Zwei Achtelnoten geändert zu punktierter Achtelnote, Sechzehntelnote. Siehe Korrekturen in <strong>G</strong>."
+            },
+            {
+              "measure": "3",
+              "system": "Ges.",
+              "position": "5–6/8",
+              "comment": "Zwei Achtelnoten geändert zu punktierter Achtelnote, Sechzehntelnote. Siehe Korrekturen in <strong>G</strong>."
+            },
+            {
+              "measure": "4",
+              "system": "Ges.",
+              "position": "5/8",
+              "comment": "{{ref.getGlyph('[a]')}} hinzugefügt."
+            },
+            {
+              "measure": "5",
+              "system": "Ges.",
+              "position": "3.–4. Note",
+              "comment": "Zwei Achtelnoten geändert zu triolischer Viertelnote und Achtelnote. {{ref.getGlyph('[a]')}} zu g<sup>1</sup> hinzugefügt. Siehe Korrekturen in <strong>G</strong>."
+            },
+            {
+              "measure": "6",
+              "system": "Ges.",
+              "position": "letzte Note",
+              "comment": "Ausrufezeichen nach [he-]<em>ben</em> hinzugefügt."
+            },
+            {
+              "measure": "10",
+              "system": "Ges.",
+              "position": "5–6/8",
+              "comment": "Kleinschreibung <em>gunst</em> überschrieben zu Großschreibung <em>Gunst</em>."
+            },
+            {
+              "measure": "10",
+              "system": "Ges.",
+              "position": "6/8",
+              "comment": "{{ref.getGlyph('[a]')}} hinzugefügt."
+            },
+            {
+              "measure": "14",
+              "system": "Klav. u.",
+              "position": "5/8",
+              "comment": "Notenkopf und Akzidens rasiert."
+            }
+          ]
         }
       ]
     }
