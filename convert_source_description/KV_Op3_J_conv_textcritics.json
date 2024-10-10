@@ -1,0 +1,36 @@
+{
+    "corrections": [
+        {
+            "id": "source_J_corr",
+            "label": "Korrekturen in <strong>J</strong>",
+            "description": [
+                "Die Beschreibung der Korrekturen bezieht sich auf „Kahl reckt der Baum“ M 137: Textfassung 4."
+            ],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "3/8",
+                            "comment": "<em>+</em> über dem System hinzugefügt mit Bleistift."
+                        },
+                        {
+                            "measure": "11",
+                            "system": "Ges.",
+                            "position": "2/8",
+                            "comment": "{{ref.getGlyph('pp')}} geändert zu {{ref.getGlyph('p')}} mit rotem Buntstift."
+                        },
+                        {
+                            "measure": "12",
+                            "system": "Ges.",
+                            "position": "5. Note bis Taktende",
+                            "comment": "Decrescendogabel hinzugefügt mit rotem Buntstift."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
