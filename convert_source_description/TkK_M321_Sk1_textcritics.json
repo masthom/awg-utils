@@ -1,0 +1,45 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "{1A}",
+                            "system": "8",
+                            "position": "",
+                            "comment": "Durch Einklammerung rechts getilgt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "{2A}",
+                            "system": "8",
+                            "position": "",
+                            "comment": "Durch Einklammerung getilgt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3",
+                            "system": "7",
+                            "position": "1.–2. Note",
+                            "comment": "Durch Einklammerung getilgt. Siehe Korrektur in System 6."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3",
+                            "system": "8",
+                            "position": "1. Note",
+                            "comment": "Durch Einkreisung getilgt. Siehe Korrekturen in System 6–7."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
