@@ -1,0 +1,150 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "1",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "Text: Kleinschreibung <em>dank</em> mit Blick auf <strong>George_DJdS</strong>. <strong>B<sup>b</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "6",
+                            "system": "Ges.",
+                            "position": "3.–4. Note",
+                            "comment": "Text: Paranthesestriche vor und nach <em>Teu-re</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Klav. u.",
+                            "position": "4/16",
+                            "comment": "<em>so zart als möglich</em> versetzt von 3/8."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "8",
+                            "system": "Ges.",
+                            "position": "6/8",
+                            "comment": "Text: Punkt nach (ster-be-wo-)<em>chen</em> ergänzt mit Blick auf ­<strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "Text: Großschreibung <em>Du</em> mit Blick auf Satzanfang und ­<strong>George_DJdS</strong>. Siehe auch TkA zu T. 8 6/8. <strong>B<sup>b</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "5–6/8",
+                            "comment": "Text sic: Silbentrennung <em>hie-lten</em>. <strong>George_DJdS</strong>: <em>halten</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "4/8",
+                            "comment": "Text: Komma nach (um-schlun-)<em>gen</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Ges.",
+                            "position": "2/8",
+                            "comment": "Ende des Bogens versetzt von Ende T. 11. <strong>B<sup>b</sup></strong>: Akkoladenwechsel nach T. 11."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Ges.",
+                            "position": "4/8",
+                            "comment": "Text sic: Kleinschreibung <em>und</em>. <strong>George_DJdS</strong>: Großschreibung <em>Und</em> (am Zeilenanfang)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Ges.",
+                            "position": "4. Note",
+                            "comment": "sic: Längenstrich nach <em>ganz</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. o.",
+                            "position": "1/4",
+                            "comment": "Ende des Bogens versetzt von Ende T. 12. <strong>B<sup>b</sup></strong>: Akkoladenwechsel nach T. 12."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav.",
+                            "position": "1/4",
+                            "comment": "Ende der Geltungsstrichelung von <em>Pedal</em> versetzt von Ende T. 12. <strong>B<sup>b</sup></strong>: Akkoladenwechsel nach T. 12."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Ges.",
+                            "position": "2/4–5/8",
+                            "comment": "Text sic: Großschreibung <em>Ei</em>(-nen) (wie <strong>George_DJdS</strong>)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13 <br /> bis 14",
+                            "system": "Ges.",
+                            "position": "4/4 <br /> 1/8",
+                            "comment": "Text sic: Großschreibung <em>Fer</em>(-nen) (wie <strong>George_DJdS</strong>)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "14",
+                            "system": "Ges.",
+                            "position": "1/8",
+                            "comment": "Text: Wiederholte Silbe <em>Fer</em>(-nen) weggelassen. <strong>B<sup>b</sup></strong>: Akkoladenwechsel nach T. 13."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "14",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "Text: Großschreibung von <em>Dich</em> mit Blick auf <strong>George_DJdS</strong> (am Zeilenanfang). <strong>B<sup>b</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "14",
+                            "system": "Klav. o.",
+                            "position": "(8/8)",
+                            "comment": "Achtelpause (Fortsetzung der Achtelpause in Klav. u. 7/8) als redundant weggelassen."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "15",
+                            "system": "Ges.",
+                            "position": "1.–3. Note",
+                            "comment": "Text sic: Silbentrennung <em>so-nnen</em>(-wan-de-run-gen)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "15",
+                            "system": "Ges.",
+                            "position": "8/8",
+                            "comment": "Text: Punkt nach (so-nnen-wan-de-run-)<em>gen</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
