@@ -1,0 +1,42 @@
+{
+    "textcritics": [
+        {
+            "id": "M_314_Sk1",
+            "label": "M 314 Sk1",
+            "description": [
+                "<strong>Sk1</strong> skizziert den Anfang der Singstimme von „Das dunkle Herz“ M 314 auf der Grundlage der Reihenform KU<sub>f</sub>.",
+                "Die Ziffer <em>IV</em> in T. 1 bezeichnet den Anfang der verwendeten Reihenform gemäß den Reihentabellen <strong>M 312 Sk2</strong> und <strong>M 312 / M 313 / M 314 RT</strong>."
+            ],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "text244",
+                            "measure": "1",
+                            "system": "1",
+                            "position": "1. Note",
+                            "comment": "<em>IV</em> mit rotem Buntstift."
+                        },
+                        {
+                            "svgGroupId": "g1",
+                            "measure": "1",
+                            "system": "1",
+                            "position": "2.–3. Note",
+                            "comment": "<em>dunkle</em> zusammengeschrieben."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": [
+                {
+                    "svgGroupId": "g1418",
+                    "linkTo": {
+                        "complexId": "op23",
+                        "sheetId": "M_314_Sk2"
+                    }
+                }
+            ]
+        }
+    ]
+}
