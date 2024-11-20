@@ -1,0 +1,108 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "description": [],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "2",
+                            "system": "Ges.",
+                            "position": "5/8",
+                            "comment": "Text: Doppelpunkt nach (al-)<em>lein</em> ergänzt mit Blick auf <strong>George_DsR</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "4",
+                            "system": "Klav. o.",
+                            "position": "4/8",
+                            "comment": "{{ref.getGlyph('[a]')}} zu c<sup>2</sup> ergänzt mit Blick auf Textfassung 3 und Textfassung 4."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "4",
+                            "system": "Ges.",
+                            "position": "6/8",
+                            "comment": "Text: Zwei Punkte nach (trä-)<em>nen</em> ergänzt mit Blick auf <strong>George_DsR</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "4",
+                            "system": "Klav. u.",
+                            "position": "6/8",
+                            "comment": "Gültigkeit und Ende des Legatobogens nicht eindeutig zu entziffern. Siehe Korrekturen 1: Legatobogen mit Ende zu T. 5 3/8 nach Taktende von T. 4 rasiert. Legatobogen und Ende zu 6/8 gesetzt mit Blick auf Textfassung 3 und Textfassung 4."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "6",
+                            "system": "Klav. o.",
+                            "position": "6/8",
+                            "comment": "Entzifferung nicht eindeutig. Siehe Korrekturen 1: auf Rasur und mehrmals nachgezogen. Entzifferung als c<sup>3</sup>/e<sup>3</sup> mit Blick auf resultierende chromatische Stimmführung von T. 6 4/8 bis T. 7 1/8 und spätere Korrektur in T. 6 4–5/8 (siehe Korrekturen 2 und spätere Textfassungen)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "6",
+                            "system": "Klav. u.",
+                            "position": "12/16",
+                            "comment": "Anfang des Legatobogens versetzt von zwischen 11–12/16."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Ges.",
+                            "position": "5–6/8",
+                            "comment": "Text sic: Silbentrennung (leicht-be-)<em>schwin-gtes</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Ges.",
+                            "position": "6/8",
+                            "comment": "Text: Punkt nach (leicht-be-schwin-)<em>gtes</em> ergänzt mit Blick auf <strong>George_DsR</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "8",
+                            "system": "Klav. o.",
+                            "position": "1–2/16",
+                            "comment": "sic: Bogen zu 2/16. <strong>A<sup>a</sup></strong>: Seitenwechsel nach T. 7."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. o.",
+                            "position": "1/8",
+                            "comment": "Ende des Legatobogens versetzt von Ende T. 9. <strong>A<sup>a</sup></strong>: Akkoladenwechsel nach T. 9."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "2/8",
+                            "comment": "Text: Großschreibung von <em>Das</em> mit Blick auf <strong>George_DJdS</strong> (am Zeilenanfang). <strong>A<sup>a</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "3–4/8",
+                            "comment": "Text sic: <em>rühr-te</em>. <strong>George_DsR</strong>: <em>rühre</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "5/8",
+                            "comment": "Text: Punkt nach <em>sein</em> ergänzt mit Blick auf <strong>George_DsR</strong>."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
