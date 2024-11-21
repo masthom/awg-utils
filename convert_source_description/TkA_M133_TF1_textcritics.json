@@ -53,49 +53,49 @@
                             "comment": "Anfang des Legatobogens versetzt von zwischen 11–12/16."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g473",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "5–6/8",
                             "comment": "Text sic: Silbentrennung (leicht-be-)<em>schwin-gtes</em>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g474",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "6/8",
                             "comment": "Text: Punkt nach (leicht-be-schwin-)<em>gtes</em> ergänzt mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g475",
                             "measure": "8",
                             "system": "Klav. o.",
                             "position": "1–2/16",
                             "comment": "sic: Bogen zu 2/16. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>a</sup></strong></a>: Seitenwechsel nach T. 7."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g476",
                             "measure": "10",
                             "system": "Klav. o.",
                             "position": "1/8",
                             "comment": "Ende des Legatobogens versetzt von Ende T. 9. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>a</sup></strong></a>: Akkoladenwechsel nach T. 9."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g477",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "2/8",
                             "comment": "Text: Großschreibung von <em>Das</em> mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> (am Zeilenanfang). <strong>A<sup>a</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g493",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "3–4/8",
                             "comment": "Text sic: <em>rühr-te</em>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>rühre</em>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g494",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "5/8",
