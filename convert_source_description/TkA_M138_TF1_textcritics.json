@@ -18,14 +18,14 @@
                             "comment": "Text: Längenstrich nach <em>Welt</em> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g507a",
                             "measure": "1",
                             "system": "Ges.",
                             "position": "4.–5. Note",
                             "comment": "Text: Schreibung und Silbentrennung von <em>Ges-stal</em>(-ten) korrigiert zu <em>Ge-stal</em>(-ten).<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> post correcturam: Kleinschreibung <em>ge-stal</em>(-ten); Zustand ante correcturam nicht zu entziffern."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g508a",
                             "measure": "1",
                             "system": "Klav. o.",
                             "position": "9/8",
@@ -36,7 +36,7 @@
                             "measure": "1",
                             "system": "",
                             "position": "(11/8)",
-                            "comment": "<em>rit</em>[<em>.</em>] versetzt von 10/8 gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> sowie von unter dem Ges.-System versetzt.  <br /> Redundantes <em>rit.</em> zwischen den Klav.-Systemen bei (10–11/8) weggelassen."
+                            "comment": "<em>rit</em>[.] versetzt von 10/8 gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> sowie von unter dem Ges.-System versetzt.  <br /> Redundantes <em>rit.</em> zwischen den Klav.-Systemen bei (10–11/8) weggelassen."
                         },
                         {
                             "svgGroupId": "TODO",
