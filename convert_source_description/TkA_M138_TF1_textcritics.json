@@ -11,7 +11,7 @@
                     "blockHeader": "",
                     "blockComments": [
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g503a",
                             "measure": "1",
                             "system": "Ges.",
                             "position": "1.–2. Note",
@@ -64,7 +64,7 @@
                             "measure": "2",
                             "system": "Ges.",
                             "position": "1/8",
-                            "comment": "Ende des Bogens versetzt von Ende T. 1 gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam.<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>D<sup>a</sup></strong></a>: Akkoladenwechsel nach T. 1. Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>: Bogen von T. 1 4/8 bis T. 2 1/8 rasiert. <br /> Text: Zwei Punkte nach (le-be-)<em>wohl!</em> ergänzt mit Blick auf <strong>George_DsR</strong> und<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
+                            "comment": "Ende des Bogens versetzt von Ende T. 1 gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam.<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>D<sup>a</sup></strong></a>: Akkoladenwechsel nach T. 1. Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>: Bogen von T. 1 4/8 bis T. 2 1/8 rasiert. <br /> Text: Zwei Punkte nach (le-be-)<em>wohl!</em> ergänzt mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> und<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -113,7 +113,7 @@
                             "measure": "3",
                             "system": "Ges.",
                             "position": "2.–4. Note",
-                            "comment": "Text: Schreibung <em>schloh</em>[-]<em>weis</em>[-]<em>ser</em> korrigiert zu <em>schloh</em>[-]<em>wei</em>[-]<em>ßer</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <strong>George_DsR</strong>:<em> schlohweisser</em>."
+                            "comment": "Text: Schreibung <em>schloh</em>[-]<em>weis</em>[-]<em>ser</em> korrigiert zu <em>schloh</em>[-]<em>wei</em>[-]<em>ßer</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>:<em> schlohweisser</em>."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -169,14 +169,14 @@
                             "measure": "5",
                             "system": "Ges.",
                             "position": "2/4",
-                            "comment": "Text sic: Kleinschreibung <em>laub</em>(-werk). <strong>George_DsR</strong>: Großschreibung <em>Laubwerk</em> (am Zeilenanfang)."
+                            "comment": "Text sic: Kleinschreibung <em>laub</em>(-werk). <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: Großschreibung <em>Laubwerk</em> (am Zeilenanfang)."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "5",
                             "system": "Ges.",
                             "position": "8/8",
-                            "comment": "Text: Punkt korrigiert zu Doppelpunkt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Punkt korrigiert zu Doppelpunkt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -190,14 +190,14 @@
                             "measure": "5",
                             "system": "Ges.",
                             "position": "10–11/8",
-                            "comment": "Text: Großschreibung <em>Gold</em> korrigiert zu Kleinschreibung <em>gold</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Gold</em> korrigiert zu Kleinschreibung <em>gold</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "5 <br /> bis 6",
                             "system": "Ges.",
                             "position": "vorletzte Note <br /> 1/2",
-                            "comment": "Text: Großschreibung <em>Kar-ne-ol</em> korrigiert zu Kleinschreibung <em>kar-ne-ol</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Kar-ne-ol</em> korrigiert zu Kleinschreibung <em>kar-ne-ol</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -260,7 +260,7 @@
                             "measure": "7",
                             "system": "Ges.",
                             "position": "3. Note",
-                            "comment": "Text sic: Großschreibung <em>Lang</em>(-sa[-]me). <strong>George_DsR</strong>: Großschreibung <em>Langsame</em> (am Zeilenanfang)."
+                            "comment": "Text sic: Großschreibung <em>Lang</em>(-sa[-]me). <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: Großschreibung <em>Langsame</em> (am Zeilenanfang)."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -330,7 +330,7 @@
                             "measure": "7",
                             "system": "Ges.",
                             "position": "12/8",
-                            "comment": "Text sic: Großschreibung <em>Rinnt</em> (wie <strong>George_DsR</strong> am Zeilenanfang)."
+                            "comment": "Text sic: Großschreibung <em>Rinnt</em> (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang)."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -351,7 +351,7 @@
                             "measure": "8",
                             "system": "Ges.",
                             "position": "1/8",
-                            "comment": "Text: Großschreibung <em>Wöl</em>(-bung) korrigiert zu <em>wöl</em>(-bung) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Wöl</em>(-bung) korrigiert zu <em>wöl</em>(-bung) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -365,14 +365,14 @@
                             "measure": "8",
                             "system": "Ges.",
                             "position": "9/8",
-                            "comment": "{{ref.getGlyph('[a]')}} zu d<sup>2</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>D<sup>a</sup></strong></a>: [a| hinzugefügt. <br /> Text sic: Großschreibung <em>Korn</em> (wie <strong>George_DsR</strong> am Zeilenanfang). Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>: <em>Korn</em> auf Rasur. Siehe auch TkA zu 11/8."
+                            "comment": "{{ref.getGlyph('[a]')}} zu d<sup>2</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>D<sup>a</sup></strong></a>: [a| hinzugefügt. <br /> Text sic: Großschreibung <em>Korn</em> (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang). Siehe Korrekturen in<a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>: <em>Korn</em> auf Rasur. Siehe auch TkA zu 11/8."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "8",
                             "system": "Ges.",
                             "position": "11/8",
-                            "comment": "Text: Großschreibung <em>Korn</em> korrigiert zu Kleinschreibung <em>korn</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <strong>George_DsR</strong>. Siehe auch TkA zu 9/8."
+                            "comment": "Text: Großschreibung <em>Korn</em> korrigiert zu Kleinschreibung <em>korn</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>. Siehe auch TkA zu 9/8."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -407,14 +407,14 @@
                             "measure": "10",
                             "system": "Ges.",
                             "position": "1. Note",
-                            "comment": "Text: Schreibung <em>schliesst</em> korrigiert zu <em>schließt</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <strong>George_DsR</strong>: <em>schliesst</em>."
+                            "comment": "Text: Schreibung <em>schliesst</em> korrigiert zu <em>schließt</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>schliesst</em>."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "2/4",
-                            "comment": "Text: Großschreibung <em>Ring</em> korrigiert zu Kleinschreibung <em>ring</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und <strong>George_DsR</strong>.  <br /> Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Ring</em> korrigiert zu Kleinschreibung <em>ring</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>.  <br /> Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -449,21 +449,21 @@
                             "measure": "11",
                             "system": "Ges.",
                             "position": "1. Note",
-                            "comment": "Text: Großschreibung <em>Kro</em>([-]nen) korrigiert zu Kleinschreibung <em>kro</em>([-]nen) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Kro</em>([-]nen) korrigiert zu Kleinschreibung <em>kro</em>([-]nen) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "2. Note",
-                            "comment": "Text: Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "5/8",
-                            "comment": "Text sic: Großschreibung <em>Ah</em>(-nen-des) (wie <strong>George_DsR</strong> am Zeilenanfang)."
+                            "comment": "Text sic: Großschreibung <em>Ah</em>(-nen-des) (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang)."
                         },
                         {
                             "svgGroupId": "TODO",
@@ -533,7 +533,7 @@
                             "measure": "13",
                             "system": "Ges.",
                             "position": "4. Note",
-                            "comment": "Text: Großschreibung <em>Kling!</em> korrigiert zu <em>kling!</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Bick auf <strong>George_DsR</strong>."
+                            "comment": "Text: Großschreibung <em>Kling!</em> korrigiert zu <em>kling!</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Bick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
                             "svgGroupId": "TODO",
