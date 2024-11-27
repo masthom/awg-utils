@@ -4,7 +4,7 @@
             "id": "M_134_TF1",
             "label": "M 134 Textfassung 1",
             "description": [
-                "Für die Edition von „Im Windesweben“ M 134 Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>b</sup></strong></a> einzige relevante Quelle. <br /> Die <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A:corr'})\"> Korrekturen in <strong>A<sup>b</sup></strong></a> betreffen Textfassung 2. <br /> Hauptquelle für die Textedition von „Im Windesweben“ M 134 Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>b</sup></strong></a> ante correcturam."
+                "Für die Edition von „Im Windesweben“ M 134 Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>b</sup></strong></a> einzige relevante Quelle. <br /> Die <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A_corr'})\"> Korrekturen in <strong>A<sup>b</sup></strong></a> betreffen Textfassung 2. <br /> Hauptquelle für die Textedition von „Im Windesweben“ M 134 Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_A'})\"><strong>A<sup>b</sup></strong></a> ante correcturam."
             ],
             "comments": [
                 {
