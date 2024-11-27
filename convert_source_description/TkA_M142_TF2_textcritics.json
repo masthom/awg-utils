@@ -1,0 +1,117 @@
+{
+    "textcritics": [
+        {
+            "id": "M_142_TF2",
+            "label": "M 142 Textfassung 2",
+            "description": [
+                "Für die Edition von „Ihr tratet zu dem Herde“ M 142 Textfassung 2 ist GH einzige relevante Quelle. GH ist Weberns Handexemplar des Drucks G. <br /> Die Korrekturen in GH etablieren Textfassung 2. <br /> Hauptquelle für die Textedition von „Ihr tratet zu dem Herde“ M 142 Textfassung 2 ist GH post correcturam."
+            ],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "vor 1",
+                            "system": "",
+                            "position": "Anfang",
+                            "comment": "<em>Sehr</em> <em>Langsam</em> aufgelöst zu <em>Sehr langsam</em>. Siehe Korrekturen in <strong>G<sup>H</sup></strong>: <em>Sehr</em> hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "1",
+                            "system": "Klav. o.",
+                            "position": "letzte Note",
+                            "comment": "{{ref.getGlyph('[a]')}} zu c<sup>1</sup> ergänzt mit Blick auf Textfassung 3."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "2",
+                            "system": "",
+                            "position": "5/8",
+                            "comment": "<em>zögernd </em>über Ges. und über Klav. u. zusammengefasst zu einer Angabe über der gesamten Akkolade."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3",
+                            "system": "Ges.",
+                            "position": "2/4",
+                            "comment": "Text sic: Großschreibung <em>Licht</em> (wie <strong>George_DJdS</strong> am Zeilenanfang)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5",
+                            "system": "",
+                            "position": "1/8",
+                            "comment": "<em>zögernd </em>über Ges. und über Klav. u. zusammengefasst zu einer Angabe über der gesamten Akkolade."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5",
+                            "system": "Klav.",
+                            "position": "(6. Note)",
+                            "comment": "Oberstimmenschicht vorletzte Note: Anfang der Crescendogabel versetzt von (7/8). Siehe Korrekturen in <strong>G%<sup>H</sup></strong>: Achtelpause ersetzt Achtelnote a/c<sup>1</sup> (siehe Textfassung 1)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5 <br /> bis 6",
+                            "system": "Klav.",
+                            "position": "(6. Note) <br /> 1/4",
+                            "comment": "Oberstimmenschicht: Bogen von T. 5 vorletzte Note bis T. 6 1/4 gesetzt mit Blick auf Streichung des Bogens bis T. 8 1/4 erst nach T. 6 1/4. Siehe Korrekturen in <strong>G<sup>H</sup></strong>: Bogen von T. 5 vorletzte Note bis T. 8 1/4 (siehe Textfassung 1) nach T. 6 1/4 gestrichen: <strong>G</strong>: Akkoladenwechsel nach T. 5."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "2.–3. Note",
+                            "comment": "Text sic: Silbentrennung <em>ta-sten</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "letzte Note",
+                            "comment": "Text: Längenstrich nach (ha-)<em>schen</em> korrigiert zu Gedankenstrich mit Blick auf G<strong>eorge_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10 <br /> bis 12",
+                            "system": "",
+                            "position": "Taktanfang <br /> Taktanfang",
+                            "comment": "<em>rit. - - - tempo </em>&lt;<em>I.</em>&gt; über Klav. o. bei T. 10 1. Note bis T. 12 1. Note sowie <em>rit. - - -</em> &lt;<em>Tempo I.</em>&gt; über Ges. bei T. 10 1. Note bis T. 12 1. Note zusammengefasst zu einer Angabe über der gesamten Akkolade."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "Text sic: Großschreibung <em>Wird</em> (wie <strong>George_DJdS</strong> am Zeilenanfang). Siehe auch TkA zu T. 3 2/4."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. u.",
+                            "position": "2/4",
+                            "comment": "sic: <em>express.</em>"
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "11",
+                            "system": "Klav. o.",
+                            "position": "1/4",
+                            "comment": "sic: <em>express.</em>"
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "",
+                            "position": "Taktanfang",
+                            "comment": "<em>sehr ruhig </em>über Ges. und über Klav. o. zusammengefasst zu einer Angabe über der gesamten Akkolade. Siehe Korrekturen in <strong>G<sup>H</sup></strong>: <em>ruhig</em> ersetzt <em>langsam</em>."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
