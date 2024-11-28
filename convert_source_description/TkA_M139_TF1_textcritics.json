@@ -1,0 +1,430 @@
+{
+    "textcritics": [
+        {
+            "id": "M_139_TF1",
+            "label": "M 139 Textfassung 1",
+            "description": [""],
+            "comments": [
+                {
+                    "blockHeader": "",
+                    "blockComments": [
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "2",
+                            "system": "Ges.",
+                            "position": "3. Note",
+                            "comment": "Text sic: Großschreibung <em>Und</em> (wie in <strong>George_DJdS</strong> (am Zeilenanfang)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "2",
+                            "system": "Klav. o.",
+                            "position": "2–3/8",
+                            "comment": "Ligaturbogen zu b<sup>1</sup> ergänzt mit Blick auf Textfassung 3. <strong>B<sup>a</sup></strong>: Zustand ante correcturam nicht zu entziffern."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "Text: Großschreibung <em>Dul</em>(-dens) korrigiert zu <em>dul</em>(-dens) mit Blick auf G<strong>eorge_DJdS</strong>. <strong>B<sup>a</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3",
+                            "system": "Klav. o.",
+                            "position": "4/8",
+                            "comment": "Ende der Decrescendogabel versetzt von 3/8 gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "3 bis <br /> 4",
+                            "system": "Klav. o.",
+                            "position": "letzte Note <br /> letzte Note",
+                            "comment": "Anfang der Decrescendogabel versetzt von T. 3 vorletzte Note sowie Ende der Decrescendogabel versetzt von T. 4 2. Note gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "4",
+                            "system": "Ges.",
+                            "position": "3/8",
+                            "comment": "Text: <em>daß</em> korrigiert zu <em>dass</em> gemäß <strong>B<sup>a</sup></strong> (wie <strong>George_DJdS</strong>)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5",
+                            "system": "Ges.",
+                            "position": "2/8",
+                            "comment": "Ende des Bogens versetzt von Ende T. 2 gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 2. <br /> Text: Komma nach (wei-)<em>le</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5",
+                            "system": "Ges.",
+                            "position": "6/8",
+                            "comment": "Anfang des Bogens versetzt von Anfang T. 6 gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 5. <br /> Text sic: Kleinschreibung <em>mein</em> (wie in <strong>B<sup>a</sup></strong>). <strong>George_DJdS</strong>: Großschreibung <em>Mein</em> (am Zeilenanfang)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "5",
+                            "system": "Klav. u.",
+                            "position": "Taktende",
+                            "comment": "Anfang der Ligaturbögen zu T. 6 ergänzt gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 5."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "6",
+                            "system": "Klav. o.",
+                            "position": "1. Note",
+                            "comment": "Fortsetzung des Ligaturbogens von T. 5 und Notenkopf d<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Akkoladenwechsel vor T. 6."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "6",
+                            "system": "Klav. o.",
+                            "position": "2. Note",
+                            "comment": "{{ref.getGlyph('[a]')}} zu g<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Ges.",
+                            "position": "1. Note",
+                            "comment": "<em>tonlos</em> versetzt von Taktanfang."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Ges.",
+                            "position": "2. Note",
+                            "comment": "Ende des Bogens versetzt von T. 6 6/8 gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Ges.",
+                            "position": "3. Note",
+                            "comment": "Text sic: Kleinschreibung <em>da</em>(-mit). <strong>George_DJdS</strong>: <em>Damit</em> (am Zeilenanfang). <strong>B<sup>a</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "7",
+                            "system": "Klav. u.",
+                            "position": "",
+                            "comment": "{{ref.getGlyph('[#]')}} zu Cis, {{ref.getGlyph('[a]')}} zu A/c ergänzt analog T. 5 1. und 4. Note, {{ref.getGlyph('[#]')}} zu Cis, {{ref.getGlyph('[a]')}} zu c auch gemäß <strong>B<sup>a</sup></strong>. Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[#]')}} zu Cis, {{ref.getGlyph('[a]')}} zu A/c hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "8",
+                            "system": "Ges.",
+                            "position": "1–2/8",
+                            "comment": "sic: Silbentrennung <em>wa-hrer</em>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "8",
+                            "system": "Ges.",
+                            "position": "2–4/8",
+                            "comment": "Decrescendogabel ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "8",
+                            "system": "Klav. u.",
+                            "position": "2.–4. Note",
+                            "comment": "Decrescendogabel ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "1–4/8",
+                            "comment": "Decrescendogabel ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Ges.",
+                            "position": "4/8",
+                            "comment": "Ende des Bogens versetzt von Ende T. 7 gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 7. <br /> Text: Punkt nach (tei-)<em>le</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Klav. o.",
+                            "position": "6/8",
+                            "comment": "Bogen weitergeführt zu T. 10 gemäß <strong>B<sup>a</sup></strong>. <strong>D<sup>b</sup></strong>: Ende des Bogens bei 6/8, Akkoladenwechsel nach T. 7, Fortsetzung des Bogens."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "9",
+                            "system": "Klav. u.",
+                            "position": "letzte Note",
+                            "comment": "{{ref.getGlyph('[b]')}} zu As, {{ref.getGlyph('[a]')}} zu d/g ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[b]')}} zu As, {{ref.getGlyph('[a]')}} zu d/g hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. u.",
+                            "position": "2/8",
+                            "comment": "{{ref.getGlyph('[b]')}} zu b, {{ref.getGlyph('[a]')}} zu d<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[b]')}} zu b, {{ref.getGlyph('[a]')}} zu d<sup>1</sup> hinzugefügt-"
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. u.",
+                            "position": "2.–5. Note",
+                            "comment": "Bogen ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. o.",
+                            "position": "5. Note",
+                            "comment": "{{ref.getGlyph('[b]')}} zu des<sup>2</sup>, {{ref.getGlyph('[a]')}} zu f<sup>2</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[b]')}} zu des<sup>2</sup>, {{ref.getGlyph('[a]')}} zu f<sup>2</sup> hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. u.",
+                            "position": "4. Note",
+                            "comment": "{{ref.getGlyph('[a]')}} zu e<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. o.",
+                            "position": "6. Note",
+                            "comment": "{{ref.getGlyph('[a]')}} zu c<sup>2</sup>/e<sup>2</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. o.",
+                            "position": "(6.–7. Note)",
+                            "comment": "Unterstimmenschicht 1.–2. Note: Ligaturbögen cis<sup>1</sup>/f<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Ges.",
+                            "position": "6/8",
+                            "comment": "{{ref.getGlyph('[a]')}} zu a<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "10",
+                            "system": "Klav. o.",
+                            "position": "letzte Note",
+                            "comment": "Anfang der Crescendogabel versetzt von T. 11 1/8 gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "11",
+                            "system": "Klav. u.",
+                            "position": "1. Note",
+                            "comment": "{{ref.getGlyph('[p]')}} ergänzt gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "11",
+                            "system": "Klav. o.",
+                            "position": "5–6/8",
+                            "comment": "Crescendogabel ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "11 <br /> bis 12",
+                            "system": "Klav. o.",
+                            "position": "5/8 <br /> 2/8",
+                            "comment": "Durchgehender Bogen gesetzt mit Blick auf Textfassung 3. <strong>B<sup>a</sup></strong> und <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 11. T. 11 5–6/8: Bogen. T. 12 1–2/8: Bogen von T. 11."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Klav. o.",
+                            "position": "2/8",
+                            "comment": "{{ref.getGlyph('[a]')}} zu h<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Klav. o.",
+                            "position": "6/16",
+                            "comment": "{{ref.getGlyph('[b]')}} zu des<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Ges.",
+                            "position": "3. Note",
+                            "comment": "Text sic: Punkt nach (em[-]pfan[-])<em>gen</em> (wie<strong> B<sup>a</sup></strong>). <strong>George_DJdS</strong>: Komma."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "12",
+                            "system": "Klav. o.",
+                            "position": "letzte Note",
+                            "comment": "{{ref.getGlyph('[b]')}} zu as<sup>2</sup>, {{ref.getGlyph('[a]')}} zu c<sup>3</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[b]')}} zu as<sup>2</sup> hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Ges.",
+                            "position": "2.–4. Note",
+                            "comment": "Anfang der Crescendogabel von 3. Note, Ende von nach 4. Note versetzt gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. o.",
+                            "position": "3/8",
+                            "comment": "{{ref.getGlyph('[b]')}} zu as<sup>2</sup>, {{ref.getGlyph('[a]')}} zu c<sup>2</sup>/c<sup>3</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[b]')}} zu as<sup>2</sup> hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. u.",
+                            "position": "8/16",
+                            "comment": "{{ref.getGlyph('[a]')}} zu c<sup>1</sup>/e<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. u.",
+                            "position": "10/16",
+                            "comment": "{{ref.getGlyph('[#]')}} zu Fis<sub>1</sub>/Fis ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[#]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. u.",
+                            "position": "vorletzte, letzte Note",
+                            "comment": "Ligaturbogen zu c ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). <br /> {{ref.getGlyph('[a]')}} zu c und a ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong> letzte Note: {{ref.getGlyph('[a]')}} zu a hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "13",
+                            "system": "Klav. u.",
+                            "position": "letzte Note",
+                            "comment": "Anfang der Ligaturbögen zu T. 14 ergänzt. <strong>B<sup>a</sup></strong> und <strong>D<sup>b</sup></strong>: Akkoladenwechsel nach T. 13."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "14",
+                            "system": "Ges.",
+                            "position": "3–4/8",
+                            "comment": "Text: Silbentrennung <em>un</em>[-]<em>sres</em> gemäß <strong>B<sup>a</sup></strong> (sic). <strong>D<sup>b</sup></strong>: Silben zusammengeschrieben."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "15",
+                            "system": "Ges.",
+                            "position": "4/8",
+                            "comment": "Ende der Decrescendogabel versetzt von 1. Note gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "15",
+                            "system": "Ges.",
+                            "position": "3. Note",
+                            "comment": "Text: <em>muss</em> korrigiert zu <em>muß</em> gemäß <strong>B<sup>a</sup></strong>.  <br /> Text sic: Kleinschreibung <em>muß</em> (wie in <strong>B<sup>a</sup></strong>). <strong>George_DJdS</strong>: <em>Muss</em> (am Zeilenanfang)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "16",
+                            "system": "Klav. o.",
+                            "position": "1/4",
+                            "comment": "{{ref.getGlyph('[a]')}} zu h<sup>1</sup>/h<sup>2</sup> und {{ref.getGlyph('[b]')}} zu es<sup>2</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?)."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "16",
+                            "system": "Klav.",
+                            "position": "(4/8)",
+                            "comment": "Ende der Decrescendogabel versetzt von 1. Note gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "16",
+                            "system": "Klav. u.",
+                            "position": "4. Note",
+                            "comment": "{{ref.getGlyph('[pp]')}} versetzt von Klav. o. 2. Note gemäß <strong>B<sup>a</sup></strong>.  <br /> Anfang des Bogens versetzt von letzter Note gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "17",
+                            "system": "Klav. o.",
+                            "position": "4/16",
+                            "comment": "{{ref.getGlyph('[pp]')}} versetzt von Taktanfang gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "17",
+                            "system": "Ges.",
+                            "position": "3. Note",
+                            "comment": "Text sic: Kleinschreibung <em>das</em>. <strong>George_DJdS</strong>: <em>Das</em> (am Zeilenanfang). <strong>B<sup>a</sup></strong>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "17 <br /> bis 18",
+                            "system": "Klav. u.",
+                            "position": "5/8 <br /> 1/4",
+                            "comment": "Anfang der Decrescendogabel versetzt von T. 17 6/8 und Ende versetzt von T. 17 Taktende gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "17",
+                            "system": "Klav. u.",
+                            "position": "letzte Note",
+                            "comment": "{{ref.getGlyph('[a]')}} zu e und {{ref.getGlyph('[#]')}} zu gis ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[#]')}} zu gis hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "18",
+                            "system": "Klav. o.",
+                            "position": "2/8",
+                            "comment": "{{ref.getGlyph('[a]')}} zu g<sup>1</sup> ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugefügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "18",
+                            "system": "Klav. u.",
+                            "position": "3/8",
+                            "comment": "{{ref.getGlyph('[a]')}} zu f ergänzt gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[a]')}} hinzugfügt."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "19",
+                            "system": "Ges.",
+                            "position": "2/8",
+                            "comment": "Text: Punkt nach (fun-)<em>des</em> ergänzt mit Blick auf <strong>George_DJdS</strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "19 <br /> bis 20",
+                            "system": "Ges.",
+                            "position": "1. Pause",
+                            "comment": "Zwei Viertelpausen, Ganze Pause korrigiert zu Halber Pause, punktierte Halbe Pause gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "20 <br /> bis 21",
+                            "system": "Klav.",
+                            "position": "1/8 <br /> 1/8",
+                            "comment": "Anfang der Decrescendogabel versetzt von nach 1/8 und Ende versetzt von T. 20 6/8 gemäß <strong>B<sup>a</sup></strong>."
+                        },
+                        {
+                            "svgGroupId": "TODO",
+                            "measure": "20",
+                            "system": "Klav. o.",
+                            "position": "6/8",
+                            "comment": "{{ref.getGlyph('[#]')}} zu gis/cis<sup>1</sup>, {{ref.getGlyph('[a]')}} zu g<sup>1</sup> ergänzt analog T. 19 1/4, {{ref.getGlyph('[#]')}} zu cis<sup>1</sup>, {{ref.getGlyph('[a]')}} zu g<sup>1</sup> auch gemäß <strong>B<sup>a</sup></strong> (ante correcturam?). Siehe Korrekturen in <strong>D<sup>b</sup></strong>: {{ref.getGlyph('[#]')}} zu gis/cis<sup>1</sup> hinzugefügt. Siehe Korrekturen in <strong>B<sup>a</sup></strong>: {{ref.getGlyph('[#]')}} zu gis hinzugefügt."
+                        }
+                    ]
+                }
+            ],
+            "linkBoxes": []
+        }
+    ]
+}
