@@ -11,74 +11,74 @@
                     "blockHeader": "",
                     "blockComments": [
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g2",
                             "measure": "2",
                             "system": "Klav. u.",
                             "position": "2. Note",
                             "comment": "Unterstimmenschicht Achtelnote c<sup>1</sup>, Oberstimmenschicht punktierte Viertelnote c<sup>1</sup>/es<sup>1</sup> mit einem Notenkopf für c<sup>1</sup> geändert zu zwei Notenköpfen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g3",
                             "measure": "4",
                             "system": "Klav. u.",
                             "position": "1/8",
                             "comment": "{{ref.getGlyph('[a]')}} zu h/d<sup>1</sup> als redundant weggelassen. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: Akkoladenwechsel nach T. 3."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g4",
                             "measure": "5",
                             "system": "Klav.",
                             "position": "1. Note",
-                            "comment": "Ende der Crescendogabel gemäß <strong>G<sup>c</sup></strong>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: nicht zu entziffern nach Rasur. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Ende der Crescendogabel geändert zu T. 4 6/8 (Rasur), Decrescendogabel T. 5 1–2/4 hinzugefügt."
+                            "comment": "Ende der Crescendogabel gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_G'})\"><strong>G<sup>c</sup></strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: nicht zu entziffern nach Rasur. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Ende der Crescendogabel geändert zu T. 4 6/8 (Rasur), Decrescendogabel T. 5 1–2/4 hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g492",
                             "measure": "5",
                             "system": "Ges.",
                             "position": "3–4/8",
                             "comment": "Text sic: Silbentrennung <em>sti-ller</em>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g493",
                             "measure": "6",
                             "system": "Ges.",
                             "position": "6/8",
-                            "comment": "Text: Ausrufezeichen ergänzt mit Blick auf G<strong>eorge_DsR</strong>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Ausrufezeichen hinzugefügt."
+                            "comment": "Text: Ausrufezeichen ergänzt mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Ausrufezeichen hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g633",
                             "measure": "7",
-                            "system": "Ges..",
+                            "system": "Ges.",
                             "position": "4/8",
                             "comment": "<em>gesteigert</em> versetzt von zwischen 1/4 und 3/8 mit Blick auf Ges.-Einsatz."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g634",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "2/8",
-                            "comment": "Text: Kleinschreibung <em>daß</em> gemäß <strong>G<sup>c</sup></strong>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>Dass</em> (am Zeilenanfang)."
+                            "comment": "Text: Kleinschreibung <em>daß</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_G'})\"><strong>G<sup>c</sup></strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>Dass</em> (am Zeilenanfang)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g635",
                             "measure": "12",
                             "system": "Ges.",
                             "position": "2/8",
-                            "comment": "Text: Kleinschreibung <em>daß</em> gemäß <strong>G<sup>c</sup></strong>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>Dass</em> (am Zeilenanfang)."
+                            "comment": "Text: Kleinschreibung <em>daß</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_G'})\"><strong>G<sup>c</sup></strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_E'})\"><strong>E<sup>e</sup></strong></a>: Kurrentschrift unspezifisch hinsichtlich Groß-/Kleinschreibung. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>Dass</em> (am Zeilenanfang)."
                         },
                         {
-                            "svgGroupId": "TODO",
-                            "measure": "<a id=\"_Hlk529542866\"></a>13",
+                            "svgGroupId": "g652",
+                            "measure": "13",
                             "system": "Ges.",
                             "position": "3/4",
                             "comment": "Text sic: Punkt nach <em>hofft</em>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: Ausrufezeichen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g653",
                             "measure": "14",
                             "system": "Klav. u.",
                             "position": "5/8",
-                            "comment": "Notenkopf und Akzidens zu B ergänzt mit Blick auf <strong>G<sup>c</sup></strong>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Notenkopf und Akzidens rasiert (Zustand nach Korrekturen 1 nicht sicher zu entziffern)."
+                            "comment": "Notenkopf und Akzidens zu B ergänzt mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_G'})\"><strong>G<sup>c</sup></strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op3', fragmentId: 'source_Ee_corr_3'})\">Korrekturen 3 in <strong>E<sup>e</sup></strong></a>: Notenkopf und Akzidens rasiert (Zustand nach Korrekturen 1 nicht sicher zu entziffern)."
                         }
                     ]
                 }
