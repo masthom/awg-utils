@@ -158,7 +158,7 @@
                             "comment": "Triolenziffer ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Triolenziffer hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g718-1",
                             "measure": "5",
                             "system": "Klav. u.",
                             "position": "1/8",
@@ -501,63 +501,63 @@
                             "comment": "sic: Oberstimmenschicht [{{ref.getGlyph('[b]')}}]es<sup>2</sup>/g<sup>2</sup>/[{{ref.getGlyph('[b]')}}]es<sup>3</sup>. Spätere Textfassungen: e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: {{ref.getGlyph('[a]')}} zu e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup> hinzugefügt. Siehe auch TkA zu T. 11 (7. Note)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g721d2",
                             "measure": "12",
                             "system": "Klav. u.",
-                            "position": "12/8",
+                            "position": "6/4",
                             "comment": "{{ref.getGlyph('[a]')}} zu d ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). (<strong>A</strong>: auch {{ref.getGlyph('[a]')}} zu c<sup>1</sup>.)"
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g721d1",
                             "measure": "12",
                             "system": "Klav. o.",
                             "position": "13/8",
                             "comment": "Ende des Legatobogens versetzt von vorletzter Note gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g337",
                             "measure": "13",
                             "system": "Klav. o.",
                             "position": "4/8",
                             "comment": "Unterstimmenschicht: {{ref.getGlyph('[#]')}} zu gis<sup>1</sup> korrigiert zu {{ref.getGlyph('[a]')}} zu g<sup>1</sup> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: {{ref.getGlyph('[a]')}} überschreibt {{ref.getGlyph('[#]')}}."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g338",
                             "measure": "13",
                             "system": "Ges.",
                             "position": "3. Note",
                             "comment": "{{ref.getGlyph('[a]')}} korrigiert zu {{ref.getGlyph('[b]')}} gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: {{ref.getGlyph('[b]')}} überschreibt {{ref.getGlyph('[a]')}}."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g339",
                             "measure": "13",
                             "system": "Ges.",
                             "position": "4. Note",
                             "comment": "Text: Großschreibung <em>Kling!</em> korrigiert zu <em>kling!</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Bick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g340",
                             "measure": "13",
                             "system": "Ges.",
                             "position": "4.–6. Note",
                             "comment": "Silbenbogen ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g341",
                             "measure": "14",
                             "system": "Klav. u.",
                             "position": "1/4",
                             "comment": "Fortsetzung des Ligaturbogens zu F<sub>1</sub> von T. 13 ergänzt. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a>: Akkoladenwechsel nach T. 13."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g341",
                             "measure": "14–15",
                             "system": "Ges.",
                             "position": "",
                             "comment": "T. 14: Halbe Pause, drei Viertelpausen, T. 15: Halbe Pause, drei Viertelpausen (die zweite mit Fermate), Halbe Pause korrigiert gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. ##Notenbeispiel?##"
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g342",
                             "measure": "14",
                             "system": "Klav. o.",
                             "position": "3. Note",
