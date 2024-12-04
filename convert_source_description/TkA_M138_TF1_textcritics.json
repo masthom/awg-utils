@@ -4,8 +4,8 @@
             "id": "M_138_TF1",
             "label": "M 138 Textfassung 1",
             "description": [
-                    "Für die Edition von <em>Eingang</em> („Welt der Gestalten“) Textfassung 1 sind <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> relevante Quellen. <br /><a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ist ante correcturam Vorlage für die Abschrift <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a>. Die <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a> betreffen Textfassung 2. Der Zustand in <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam ist nicht immer eindeutig zu entziffern. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> ante correcturam bietet im Vergleich dazu einen kohärenteren Text, der Textfassung 1 etabliert. Die autographen <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a> betreffen spätere Textfassungen oder sind aufführungsspezifisch motiviert. <br />Hauptquelle für die Textedition von Eingang („Welt der Gestalten“) Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> ante correcturam. Referenzquelle ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. Da in <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> nicht immer eindeutig zu entscheiden ist, welche Zeichen ante oder post correcturam niedergeschrieben wurden, wird in diesen Fällen „(ante correcturam?)“ vermerkt."
-                ],
+                "Für die Edition von <em>Eingang</em> („Welt der Gestalten“) Textfassung 1 sind <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> relevante Quellen. <br /><a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ist ante correcturam Vorlage für die Abschrift <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a>. Die <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a> betreffen Textfassung 2. Der Zustand in <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam ist nicht immer eindeutig zu entziffern. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> ante correcturam bietet im Vergleich dazu einen kohärenteren Text, der Textfassung 1 etabliert. Die autographen <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a> betreffen spätere Textfassungen oder sind aufführungsspezifisch motiviert. <br />Hauptquelle für die Textedition von Eingang („Welt der Gestalten“) Textfassung 1 ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> ante correcturam. Referenzquelle ist <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. Da in <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> nicht immer eindeutig zu entscheiden ist, welche Zeichen ante oder post correcturam niedergeschrieben wurden, wird in diesen Fällen „(ante correcturam?)“ vermerkt."
+            ],
             "comments": [
                 {
                     "blockHeader": "",
@@ -242,263 +242,263 @@
                             "comment": "Triolenziffer ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Triolenziffer hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g648",
                             "measure": "vor 7",
                             "system": "Klav. u.",
                             "position": "",
                             "comment": "Bassschlüssel korrigiert zu Violinschlüssel gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Violinschlüssel überschreibt Basschlüssel."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g649",
                             "measure": "7",
                             "system": "Klav. o.",
                             "position": "1.–2., 2.–3. Note",
                             "comment": "Ligaturbögen zu f<sup>2</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: Viertelnote f<sup>2</sup> als Unterstimmenschicht auf Rasur ersetzt Achtelnote, zwei Sechzehntelnoten f<sup>2</sup> mit Ligaturen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g699",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "3. Note",
                             "comment": "Text sic: Großschreibung <em>Lang</em>(-sa[-]me). <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: Großschreibung <em>Langsame</em> (am Zeilenanfang)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g700",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "3.–5. Note",
                             "comment": "Triolenziffer ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Triolenziffer hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g701",
                             "measure": "7",
                             "system": "Klav. u.",
                             "position": "5.–6., 6.–7. Note",
                             "comment": "Ligaturbögen zu f<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: Viertelnote f<sup>1</sup> als Unterstimmenschicht auf Rasur ersetzt Achtelnote, zwei Sechzehntelnoten f<sup>1</sup> mit Ligaturen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g702",
                             "measure": "7",
                             "system": "Klav. u.",
                             "position": "5.–8. Note",
                             "comment": "Legatobogen ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: Bogen zuerst rasiert, dann wieder hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g703",
                             "measure": "7",
                             "system": "Klav. o.",
                             "position": "7/16",
                             "comment": "{{ref.getGlyph('[a]')}} zu c<sup>3</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g704",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "5–6/8",
                             "comment": "Text: Silbentrennung <em>que</em>[-]<em>lle</em> (sic) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a>: Silben zusammengeschrieben."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g705",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "6/8",
                             "comment": "{{ref.getGlyph('[a]')}} zu e<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: {{ref.getGlyph('[a]')}} hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g706",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "8.–10. Note",
                             "comment": "Triolenziffer ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Triolenziffer hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g707",
                             "measure": "7",
                             "system": "Klav. u.",
                             "position": "11. Note",
                             "comment": "c<sup>2</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam (Entzifferung unsicher) sowie mit Blick auf vorhandenen Ligaturbogen zu c<sup>2</sup> bei 12. Note."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g708",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "10/8",
                             "comment": "Text: Komma nach (spie[-])<em>le</em> ergänzt mit Blick auf G<strong>eorge_DsR</strong>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: Komma überschreibt Punkt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g709",
                             "measure": "7",
                             "system": "Ges.",
                             "position": "12/8",
                             "comment": "Text sic: Großschreibung <em>Rinnt</em> (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g710",
                             "measure": "7",
                             "system": "",
                             "position": "(13–14/8)",
                             "comment": "<em>rit. - - -</em> versetzt von Ges. 13/8 unter dem System, <em>rit.</em> in Klav. 14/8 zwischen den Systemen als redundant weggelassen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g713",
                             "measure": "8",
                             "system": "",
                             "position": "Taktanfang",
                             "comment": "Großschreibung <em>Etwas breiter</em> korrigiert zu <em>etwas breiter</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> ante correcturam."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g714c1",
                             "measure": "8",
                             "system": "Ges.",
                             "position": "1/8",
                             "comment": "Text: Großschreibung <em>Wöl</em>(-bung) korrigiert zu <em>wöl</em>(-bung) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g714c2",
                             "measure": "8",
                             "system": "Klav. o.",
                             "position": "2/8",
                             "comment": "{{ref.getGlyph('[ppp]')}} versetzt von 1/8 gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g745",
                             "measure": "8",
                             "system": "Ges.",
                             "position": "9/8",
                             "comment": "{{ref.getGlyph('[a]')}} zu d<sup>2</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: [a| hinzugefügt. <br /> Text sic: Großschreibung <em>Korn</em> (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: <em>Korn</em> auf Rasur. Siehe auch TkA zu 11/8."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g746",
                             "measure": "8",
                             "system": "Ges.",
                             "position": "11/8",
                             "comment": "Text: Großschreibung <em>Korn</em> korrigiert zu Kleinschreibung <em>korn</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>. Siehe auch TkA zu 9/8."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g747",
                             "measure": "9",
                             "system": "Klav.",
                             "position": "2/8, 4/8, 6/8",
                             "comment": "Tenutostriche bei 2/8, Klav. u. 4/8 und 6/8 ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g748",
                             "measure": "9",
                             "system": "",
                             "position": "4/4",
                             "comment": "<em>wie zu Anfang</em> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g749",
                             "measure": "9",
                             "system": "Klav. u.",
                             "position": "13–14/8",
                             "comment": "Ligaturbögen weggelassen gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Bögen gestrichen."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g750",
                             "measure": "9",
                             "system": "Klav. u.",
                             "position": "14/8",
                             "comment": "Anfang der Ligaturbögen zu T. 10 ergänzt. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a>: Akkoladenwechsel nach T. 9."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g663",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "1. Note",
                             "comment": "Text: Schreibung <em>schliesst</em> korrigiert zu <em>schließt</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>: <em>schliesst</em>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g666",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "2/4",
                             "comment": "Text: Großschreibung <em>Ring</em> korrigiert zu Kleinschreibung <em>ring</em> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>.  <br /> Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g667",
                             "measure": "10",
                             "system": "Klav. u.",
                             "position": "4/8–3/4",
                             "comment": "Unterstimmenschicht: Ligaturbogen D<sub>1</sub>–D<sub>1</sub> ergänzt analog T. 9 8/8–5/4. Zustand ante correcturam in <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> nicht zu entziffern."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g668",
                             "measure": "10",
                             "system": "Klav. o.",
                             "position": "5–6/8",
                             "comment": "Ligaturbögen e<sup>1</sup>/b<sup>1</sup>–e<sup>1</sup>/b<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Bögen hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g669",
                             "measure": "10",
                             "system": "Ges.",
                             "position": "6/8–10/8",
                             "comment": "Text: ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (5.–7. Note sic: Silbentrennung <em>Dä-mmer</em>). <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_D'})\"><strong>D<sup>a</sup></strong></a> ante correcturam: Text fehlt. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: Text <em>Dä-m¯#er der frü</em>[-]<em>he</em> hinzugefügt (Hs?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g670",
                             "measure": "10",
                             "system": "Klav. o.",
                             "position": "12/8",
                             "comment": "{{ref.getGlyph('[#]')}} zu cis<sup>3</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g671",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "1. Note",
                             "comment": "Text: Großschreibung <em>Kro</em>([-]nen) korrigiert zu Kleinschreibung <em>kro</em>([-]nen) gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g672",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "2. Note",
                             "comment": "Text: Komma ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?) und mit Blick auf <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g705d1",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "5/8",
                             "comment": "Text sic: Großschreibung <em>Ah</em>(-nen-des) (wie <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'text_George_DsR'})\"><strong>George_DsR</strong></a> am Zeilenanfang)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g705d2",
                             "measure": "11",
                             "system": "Klav. o.",
                             "position": "5/8",
                             "comment": "{{ref.getGlyph('[b]')}} zu es<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?). Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: {{ref.getGlyph('[b]')}} hinzugefügt."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g706d1",
                             "measure": "11",
                             "system": "Ges.",
                             "position": "7/8",
                             "comment": "ais<sup>1</sup> korrigiert zu fis<sup>1</sup> gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_Da_corr'})\">Korrekturen in <strong>D<sup>a</sup></strong></a>: fis<sup>1</sup> überschreibt ais<sup>1</sup>."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g710d1",
                             "measure": "11",
                             "system": "Klav. o.",
-                            "position": "(7. Note)",
-                            "comment": "sic: Oberstimmenschicht 5. Note {{ref.getGlyph('[b]')}}es<sup>2</sup>/g<sup>2</sup>/{{ref.getGlyph('[b]')}}es<sup>3</sup>. Spätere Textfassungen: es<sup>2</sup>/ges<sup>2</sup>/es<sup>3</sup>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: {{ref.getGlyph('[b]')}} zu ges<sup>2</sup> hinzugefügt. Siehe auch TkA zu T. 11 (9. Note)."
+                            "position": "5. Note",
+                            "comment": "sic: Oberstimmenschicht {{ref.getGlyph('[b]')}}es<sup>2</sup>/g<sup>2</sup>/{{ref.getGlyph('[b]')}}es<sup>3</sup>. Spätere Textfassungen: es<sup>2</sup>/ges<sup>2</sup>/es<sup>3</sup>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: {{ref.getGlyph('[b]')}} zu ges<sup>2</sup> hinzugefügt. Siehe auch TkA zu T. 11 (9. Note)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g716",
                             "measure": "11",
                             "system": "Klav. o.",
-                            "position": "(8. Note)",
-                            "comment": "Unterstimmenschicht 5. Note: {{ref.getGlyph('[a]')}} zu c<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
+                            "position": "5. Note",
+                            "comment": "Unterstimmenschicht: {{ref.getGlyph('[a]')}} zu c<sup>1</sup> ergänzt gemäß <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A'})\"><strong>A</strong></a> (ante correcturam?)."
                         },
                         {
-                            "svgGroupId": "TODO",
+                            "svgGroupId": "g717",
                             "measure": "11",
                             "system": "Klav. o.",
-                            "position": "(9. Note)",
-                            "comment": "sic: Oberstimmenschicht 6. Note [{{ref.getGlyph('[b]')}}]es<sup>2</sup>/g<sup>2</sup>/[{{ref.getGlyph('[b]')}}]es<sup>3</sup>. Spätere Textfassungen: e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: {{ref.getGlyph('[a]')}} zu e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup> hinzugefügt. Siehe auch TkA zu T. 11 (7. Note)."
+                            "position": "6. Note",
+                            "comment": "sic: Oberstimmenschicht [{{ref.getGlyph('[b]')}}]es<sup>2</sup>/g<sup>2</sup>/[{{ref.getGlyph('[b]')}}]es<sup>3</sup>. Spätere Textfassungen: e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup>. Siehe <a (click)=\"ref.navigateToReportFragment({complexId: 'op4', fragmentId: 'source_A_corr'})\">Korrekturen in <strong>A</strong></a>: {{ref.getGlyph('[a]')}} zu e<sup>2</sup>/g<sup>2</sup>/e<sup>3</sup> hinzugefügt. Siehe auch TkA zu T. 11 (7. Note)."
                         },
                         {
                             "svgGroupId": "TODO",
