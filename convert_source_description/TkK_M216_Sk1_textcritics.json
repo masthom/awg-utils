@@ -1,0 +1,181 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "evaluations": [],
+            "commentary": {
+                "preamble": "",
+                "comments": [
+                    {
+                        "blockHeader": "",
+                        "blockComments": [
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "2",
+                                "system": "3–4",
+                                "position": "1/8",
+                                "comment": "e/c<sup>1</sup> gestrichen."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "5",
+                                "system": "2",
+                                "position": "1/4",
+                                "comment": "<span class='glyph'>{{ref.getGlyph('[a]')}}</span>h<sup>1</sup> überschreibt <span class='glyph'>{{ref.getGlyph('[a]')}}</span>c<sup>2</sup>."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "6",
+                                "system": "7",
+                                "position": "1/8",
+                                "comment": "Unterstimmenschicht: h durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "6",
+                                "system": "8",
+                                "position": "3/8",
+                                "comment": "g durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "6",
+                                "system": "8",
+                                "position": "5/8",
+                                "comment": "es durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "8",
+                                "system": "7",
+                                "position": "1/4",
+                                "comment": "e<sup>2</sup> durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "8",
+                                "system": "8",
+                                "position": "",
+                                "comment": "<span class='glyph'>{{ref.getGlyph('[#]')}}</span> zu Gis überschreibt <span class='glyph'>{{ref.getGlyph('[a]')}}</span> (zu G), <span class='glyph'>{{ref.getGlyph('[a]')}}</span> zu g überschreibt <span class='glyph'>{{ref.getGlyph('[#]')}}</span> (zu gis)."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "8  <br /> bis 9",
+                                "system": "7",
+                                "position": "3/4 <br /> 1/8",
+                                "comment": "Ligaturbogen zu T. 9 1/8 gestrichen und Achtelnote ersetzt durch Achtelpause."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "9",
+                                "system": "7",
+                                "position": "4/8",
+                                "comment": "<span class='glyph'>{{ref.getGlyph('[#]')}}</span>gis<sup>1</sup> überschreibt <span class='glyph'>{{ref.getGlyph('[a]')}}</span>e<sup>1</sup>."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "10",
+                                "system": "7",
+                                "position": "3. bis letzte Note",
+                                "comment": "Zwei zusammengebalkte Achtelnoten a<sup>1</sup>–as<sup>1</sup> geändert zu Viertelnote a<sup>1</sup>, Achtelnote gis<sup>1</sup>."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "12",
+                                "system": "2",
+                                "position": "6/8",
+                                "comment": "Achtelnote d<sup>1</sup> geändert zu Achtelpause."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "{13A–14A}",
+                                "system": "",
+                                "position": "",
+                                "comment": "Zunächst T. {14A} 2–3/4 zwei Viertelnoten fis<sup>1</sup> durch Einkreisung getilgt. Dann T. {13A–14A} pauschal durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "{15A}",
+                                "system": "",
+                                "position": "",
+                                "comment": "Durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "13B",
+                                "system": "4",
+                                "position": "3.–5. Note",
+                                "comment": "f<sup>1</sup>–f<sup>1</sup>–<span class='glyph'>{{ref.getGlyph('[b]')}}</span>es<sup>1</sup> überschreibt e<sup>1</sup>–e<sup>1</sup>–<span class='glyph'>{{ref.getGlyph('[a]')}}</span>d<sup>1</sup> (?)."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "14B",
+                                "system": "4",
+                                "position": "4/8",
+                                "comment": "<span class='glyph'>{{ref.getGlyph('[a]')}}</span> zu h<sup>1</sup> überschreibt <span class='glyph'>{{ref.getGlyph('[b]')}}</span> (zu b<sup>1</sup>)."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "17",
+                                "system": "2",
+                                "position": "letzte Note",
+                                "comment": "sic: Achtelfähnchen fehlt. c<sup>2</sup> gestrichen (?)."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "18",
+                                "system": "2",
+                                "position": "3/4",
+                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[a]')}}</span> zu e<sup>1</sup> (siehe Textfassung 1) fehlt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "18",
+                                "system": "3",
+                                "position": "5–6/8",
+                                "comment": "Zunächst: <span class='glyph'>{{ref.getGlyph('[a]')}}</span>e–<span class='glyph'>{{ref.getGlyph('[a]')}}</span>G überschreibt G–E. Dann 5/8: <span class='glyph'>{{ref.getGlyph('[b]')}}</span> zu es überschreibt <span class='glyph'>{{ref.getGlyph('[a]')}}</span> (zu e)."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "19",
+                                "system": "2",
+                                "position": "1/8",
+                                "comment": "Achtelpause ersetzt Achtelnote cis<sup>1</sup>/e<sup>1</sup>/c<sup>2</sup>. Siehe TkK zu T. 18 3/4."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "19",
+                                "system": "2",
+                                "position": "3/8, (4–5/8)",
+                                "comment": "Achtelnote, Viertelnote überschreibt zwei zusammengebalkte Achtelnoten."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "19",
+                                "system": "2",
+                                "position": "letzte Note",
+                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[a]')}}</span> zu a<sup>1</sup> (siehe Textfassung 1) fehlt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "20 <br /> bis 21",
+                                "system": "5",
+                                "position": "6/8 <br /> 1. Note",
+                                "comment": "cis<sup>2</sup>–g<sup>2</sup> durch Einkreisung getilgt."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "21",
+                                "system": "6",
+                                "position": "2/4",
+                                "comment": "<span class='glyph'>{{ref.getGlyph('[b]')}}</span>es gestrichen."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "linkBoxes": []
+        }
+    ]
+}
