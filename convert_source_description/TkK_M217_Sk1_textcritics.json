@@ -13,140 +13,140 @@
                         "blockHeader": "",
                         "blockComments": [
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4a",
                                 "measure": "1",
                                 "system": "4",
                                 "position": "(1/4)",
                                 "comment": "Punktierung zu a bei 1. Note pars pro toto gestrichen, Achtelpause vor 1. Note und Triolenklammer hinzugefügt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5a",
                                 "measure": "2",
                                 "system": "3",
                                 "position": "1. Note",
                                 "comment": "Durch Einkreisung getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g6a",
                                 "measure": "2",
                                 "system": "3",
                                 "position": "2.–4. Note",
                                 "comment": "e<sup>2</sup>–es<sup>2</sup>–d<sup>2</sup> durch Einkreisung getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g7a",
                                 "measure": "5",
                                 "system": "3",
                                 "position": "4/16",
                                 "comment": "<span class='glyph'>{{ref.getGlyph('[a]')}}</span>c<sup>2</sup> überschreibt <span class='glyph'>{{ref.getGlyph('[b]')}}</span>b<sup>1</sup>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5b",
                                 "measure": "7",
                                 "system": "8",
                                 "position": "",
                                 "comment": "2. Note durch Einkreisung getilgt, Punktierung zu 1. Note sowie 4/8 vermutlich hinzugefügt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4b",
                                 "measure": "7",
                                 "system": "9",
                                 "position": "",
                                 "comment": "Durch Einkreisung teilweise getilgt. Siehe Änderung in System 10."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g6b",
                                 "measure": "7",
                                 "system": "7",
                                 "position": "3. Note",
                                 "comment": "<span class='glyph'>{{ref.getGlyph('[b]')}}</span>es<sup>1</sup> überschreibt <span class='glyph'>{{ref.getGlyph('[#]')}}</span>dis<sup>1</sup>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g7b",
                                 "measure": "8",
                                 "system": "7",
                                 "position": "1/4",
-                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[b]')}}</span> zu es<sup>1</sup> fehlt. Siehe einzige Textfassung."
+                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[b]')}}</span> zu es<sup>1</sup> fehlt. Siehe <span class='link-todo'>einzige Textfassung</span>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g8b",
                                 "measure": "8",
                                 "system": "8",
                                 "position": "2/8",
                                 "comment": "Durch Einkreisung getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4c",
                                 "measure": "11",
                                 "system": "3",
                                 "position": "3–6/8",
-                                "comment": "Durch Einkreisung getilgt. Siehe Änderung in System 2 sowie in <strong>Sk2</strong>."
+                                "comment": "Durch Einkreisung getilgt. Siehe Änderung in System 2 sowie in <a (click)=\"ref.selectSvgSheet({complexId: 'op12', sheetId: 'M_217_Sk1_1'})\"><strong><strong>Sk1.1</strong></a>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5c",
                                 "measure": "14",
                                 "system": "2",
                                 "position": "1. Pause",
                                 "comment": "Achtelpause überschreibt unausgefüllten Notenkopf g<sup>1</sup> (?)."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4d",
                                 "measure": "16",
                                 "system": "6",
                                 "position": "1. Note",
                                 "comment": "Unterstimmenschicht: Halbe Note a/<span class='glyph'>{{ref.getGlyph('[b]')}}</span>es<sup>1</sup> überschreibt Viertelnote a/<span class='glyph'>{{ref.getGlyph('[#]')}}</span>dis<sup>1</sup>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5d",
                                 "measure": "19",
                                 "system": "6",
                                 "position": "1/4",
-                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[b]')}}</span> zu es<sup>1</sup> fehlt. Siehe einzige Textfassung."
+                                "comment": "sic: <span class='glyph'>{{ref.getGlyph('[b]')}}</span> zu es<sup>1</sup> fehlt. Siehe <span class='link-todo'>einzige Textfassung</span>."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5e",
                                 "measure": "{20A–23A}",
                                 "system": "",
                                 "position": "",
                                 "comment": "Durch <em>vi-de</em>-Vermerk und Klammer rechts nach T. {23A} getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4e",
                                 "measure": "{23A}",
                                 "system": "10",
                                 "position": "2/4",
                                 "comment": "Durch Einkreisung getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g15e",
                                 "measure": "21B",
                                 "system": "10–11",
                                 "position": "",
                                 "comment": "sic: Wiederholungskürzel."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4f",
                                 "measure": "23B",
                                 "system": "4",
                                 "position": "1.–2. Note",
                                 "comment": "Durch Einkreisung getilgt."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5f",
                                 "measure": "23B",
                                 "system": "3",
                                 "position": "1. Note",
                                 "comment": "Notenkopf c<sup>1</sup> gestrichen."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g15f",
                                 "measure": "25",
                                 "system": "4",
                                 "position": "3. Note",
                                 "comment": "Unklare Überschreibung."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g6f",
                                 "measure": "26",
                                 "system": "3",
                                 "position": "(3/4)",
@@ -156,7 +156,50 @@
                     }
                 ]
             },
-            "linkBoxes": []
+            "linkBoxes": [
+                {
+                    "svgGroupId": "g11c",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1d"
+                    }
+                },
+                {
+                    "svgGroupId": "g11d",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1c"
+                    }
+                },
+                {
+                    "svgGroupId": "g11d-6",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1e"
+                    }
+                },
+                {
+                    "svgGroupId": "g11e",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1d"
+                    }
+                },
+                {
+                    "svgGroupId": "g11g",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1_1"
+                    }
+                },
+                {
+                    "svgGroupId": "g12g",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1_2"
+                    }
+                }
+            ]
         },
         {
             "id": "M_217_Sk1_1",
@@ -171,7 +214,7 @@
                         "blockHeader": "",
                         "blockComments": [
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4",
                                 "measure": "11",
                                 "system": "8c",
                                 "position": "",
@@ -181,7 +224,22 @@
                     }
                 ]
             },
-            "linkBoxes": []
+            "linkBoxes": [
+                {
+                    "svgGroupId": "g11",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1g"
+                    }
+                },
+                {
+                    "svgGroupId": "g12",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1_2"
+                    }
+                }
+            ]
         },
         {
             "id": "M_217_Sk1_2",
@@ -196,14 +254,14 @@
                         "blockHeader": "",
                         "blockComments": [
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g5",
                                 "measure": "27B 3/4",
                                 "system": "7b, 9b",
                                 "position": "3/4",
                                 "comment": "sic: disparater Untersatz zwischen Ges. und Klav."
                             },
                             {
-                                "svgGroupId": "TODO",
+                                "svgGroupId": "g4",
                                 "measure": "28",
                                 "system": "9b",
                                 "position": "2. Note",
@@ -213,7 +271,22 @@
                     }
                 ]
             },
-            "linkBoxes": []
+            "linkBoxes": [
+                {
+                    "svgGroupId": "g11",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1_1"
+                    }
+                },
+                {
+                    "svgGroupId": "g12",
+                    "linkTo": {
+                        "complexId": "op12",
+                        "sheetId": "M_217_Sk1g"
+                    }
+                }
+            ]
         }
     ]
 }
