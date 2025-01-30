@@ -613,7 +613,7 @@
             "id": "M_213_Sk1_5",
             "label": "M 213 Sk1.5",
             "evaluations": [
-                "Sk1.5 ist eine nicht zuordenbare Rhythmusskizze vermutlich zur Singstimme von Sk1.###<strong>Sk1.1</strong> überarbeitet T. 18B–20C von <a (click)=\"ref.selectSvgSheet({complexId: 'op12', sheetId: 'M_213_Sk1d'})\"><strong>Sk1</strong></a>, ohne bereits die Formulierung der <span class='link-todo'>einzigen Textfassung</span> T. 18–20 identisch vorwegzunehmen."
+                "<strong>Sk1.5</strong> ist eine nicht zuordenbare Rhythmusskizze vermutlich zur Singstimme von <a (click)=\"ref.selectSvgSheet({complexId: 'op12', sheetId: 'M_213_Sk1'})\"><strong>Sk1</strong></a>."
             ],
             "commentary": {
                 "preamble": "",
@@ -640,7 +640,7 @@
             "id": "M_213_Sk1_6",
             "label": "M 213 Sk1.6",
             "evaluations": [
-                "Sk1.6 ist eine nicht zuordenbare Rhythmusskizze, möglicherweise zu den Schlusstakten (siehe Triller) von Sk1.###<strong>Sk1.1</strong> überarbeitet T. 18B–20C von <a (click)=\"ref.selectSvgSheet({complexId: 'op12', sheetId: 'M_213_Sk1d'})\"><strong>Sk1</strong></a>, ohne bereits die Formulierung der <span class='link-todo'>einzigen Textfassung</span> T. 18–20 identisch vorwegzunehmen."
+                "<strong>Sk1.6</strong> ist eine nicht zuordenbare Rhythmusskizze, möglicherweise zu den Schlusstakten (siehe Triller) von <a (click)=\"ref.selectSvgSheet({complexId: 'op12', sheetId: 'M_213_Sk1'})\"><strong>Sk1</strong></a>."
             ],
             "commentary": {
                 "preamble": "",
