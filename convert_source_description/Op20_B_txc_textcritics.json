@@ -1,0 +1,209 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "evaluations": [],
+            "commentary": {
+                "preamble": "",
+                "comments": [
+                    {
+                        "blockHeader": "",
+                        "blockComments": [
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "1–2",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit rotem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "1a",
+                                "position": "G<sub>as</sub>: 4.–5.",
+                                "comment": "sic: Notenkopf (?) f<sup>1</sup> zwischen 4.–5. Reihenton nach gestricheltem ##Trennstrich##."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "3–4",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen, Schlüssel und Reihenbezeichnungen mit grünem Buntstift, nachgezogen oder überschrieben mit Bleistift bei: ###."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5–6",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen, Schlüssel und Reihenbezeichnungen mit blauem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5a",
+                                "position": "G<sub>f</sub>: 10.",
+                                "comment": "sic: Punkt über der Note. (Markierung? Ansatz zu Notenkopf oder Bogen?)"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "7–8",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen, Schlüssel und Reihenbezeichnungen mit Kopierstift. Schlüssel sehr schwach."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "7a, 7b",
+                                "position": "G<sub>e</sub>: 12., K<sub>g</sub>: 1.",
+                                "comment": "Doppelstrich zwischen den Reihenformen radiert."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "8a",
+                                "position": "U<sub>e</sub>: 10.",
+                                "comment": "sic: Kreuz unter der Note. (Markierung?)"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "Bl. 2<sup>r</sup>",
+                                "system": "1–2",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit grünem Buntstift. ##Abweichungen/Überschreibungen?: ######"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "1a–4b",
+                                "position": "G<sub>g</sub>, K<sub>b</sub>, U<sub>g</sub>, KU<sub>e</sub>, G<sub>ges</sub>, K<sub>a</sub>, U<sub>ges</sub>, KU<sub>es</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit rotem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "3–4",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit Bleistift.## ##Abweichungen/Überschreibungen?: ######"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5–6",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit blauem Buntstift. ##Abweichungen/Überschreibungen?: ######"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5a",
+                                "position": "G<sub>es</sub>",
+                                "comment": "<em>25</em> überschreibt <em>XXV</em>."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5a–6b",
+                                "position": "G<sub>es</sub>, K<sub>fis</sub>, U<sub>es</sub>, KU<sub>c</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit blauem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5b",
+                                "position": "K<sub>fis</sub>",
+                                "comment": "##Überschreibungen?##"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "7–8",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit rotem Buntstift. ##Abweichungen/Überschreibungen?: ######"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "7a–8b",
+                                "position": "G<sub>des</sub>, K<sub>e</sub>, U<sub>des</sub>, KU<sub>b</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit rotem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "Bl. 3<sup>r</sup>",
+                                "system": "1–2",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit grünem Buntstift. ##Abweichungen/Überschreibungen?: ###<em>2 kl. ↑</em> mit rotem Buntstift###"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "1a–2b",
+                                "position": "G<sub>a</sub>, K<sub>c</sub>, U<sub>a</sub>, KU<sub>fis</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit grünem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "3–4",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit Bleistift. ##Abweichungen/Überschreibungen?: ###<em>2 gr. ↑</em> mit rotem Buntstift ###"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "3a–4b",
+                                "position": "G<sub>b</sub>, K<sub>cis</sub>, U<sub>b</sub>, KU<sub>g</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit blauem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "4b",
+                                "position": "KU<sub>g</sub>",
+                                "comment": "<em>XL.</em> überschreibt <em>XX</em>. ##?##"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5–6",
+                                "position": "",
+                                "comment": "Trennstriche zwischen den Systemen mit blauem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5–6",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit blauem Bunstift. ##Abweichungen/Überschreibungen?: ###<em>3 kl ↑</em> mit rotem Buntstift ###"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "6a",
+                                "position": "U<sub>h</sub>",
+                                "comment": "X[<em>X→</em>]LII. ##?##"
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "5a–6b",
+                                "position": "G<sub>h</sub>, K<sub>d</sub>, U<sub>h</sub>, KU<sub>as</sub>: 1.–3., 4.–5., 6.–9., 10.–12.",
+                                "comment": "Bogen mit rotem Buntstift."
+                            },
+                            {
+                                "svgGroupId": "TODO",
+                                "measure": "",
+                                "system": "7–8",
+                                "position": "",
+                                "comment": "Klammer vor den Systemen und Reihenbezeichnungen mit rotem Bunstift. ##Abweichungen/Überschreibungen?: ###<em>3 gr. ↑</em> mit rotem Buntstift ###"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "linkBoxes": []
+        }
+    ]
+}
