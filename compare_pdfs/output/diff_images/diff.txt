@@ -1,9 +1,0 @@
-PDF Comparison Results
-==================================================
-PDF 1: ./Teil44.pdf
-PDF 2: ./Teil44_TA.pdf
-DPI: 400
-Threshold: 75
-Timestamp: 2025-02-04 12:24:09
-==================================================
-Diffs detected on pages: 1
