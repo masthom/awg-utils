@@ -1,0 +1,34 @@
+{
+    "textcritics": [
+        {
+            "id": "",
+            "label": "",
+            "evaluations": [],
+            "commentary": {
+                "preamble": "",
+                "comments": [
+                    {
+                        "blockHeader": "",
+                        "blockComments": [
+                            {
+                                "svgGroupId": "g-tkk-1",
+                                "measure": "3",
+                                "system": "II. Gg., Br., Vc.",
+                                "position": "",
+                                "comment": "sic: leere Systeme."
+                            },
+                            {
+                                "svgGroupId": "g-tkk-2",
+                                "measure": "4",
+                                "system": "Br., Vc.",
+                                "position": "(9–11/16)",
+                                "comment": "Teilweise auf Rasur."
+                            }
+                        ]
+                    }
+                ]
+            },
+            "linkBoxes": []
+        }
+    ]
+}

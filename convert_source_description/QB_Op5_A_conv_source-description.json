@@ -1,0 +1,78 @@
+{
+    "sources": [
+        {
+            "id": "source_A",
+            "siglum": "A",
+            "siglumAddendum": "",
+            "type": "Autograph von M 147 (Fragment: T. 1–6 [<strong>M 147 Sk1</strong>]).",
+            "location": "CH-Bps, Sammlung Anton Webern ##Mappe 14/1.",
+            "physDesc": {
+                "conditions": [
+                    "1 Blatt (Bl. 1). Rissspuren am linken (recto) Rand: von Bögen abgetrennt. Rechteckige Ausschneidungen am rechten Rand oben bis System 1, System 14–15 und System 18 bis unten. Archivalische Paginierung mit Bleistift <em>[1]</em> bis <em>[2]</em> auf Bl. 1<sup>r</sup> unten links und Bl. 1<sup>v</sup> unten rechts. Bl. 1<sup>v</sup> bis auf die archivalische Paginierung unbeschriftet."
+                ],
+                "writingMaterialStrings": [
+                    "Notenpapier, 22 Systeme, Format (hoch): 340 × 265 mm (Bl. 1), Firmenzeichen: [JE_No. 7, 22 linig.]"
+                ],
+                "writingInstruments": {
+                    "main": "schwarze Tinte",
+                    "secondary": []
+                },
+                "titles": [],
+                "dates": [],
+                "paginations": [],
+                "measureNumbers": [],
+                "instrumentations": [],
+                "annotations": [],
+                "contents": [
+                    {
+                        "item": "",
+                        "itemLinkTo": {},
+                        "itemDescription": "",
+                        "folios": [
+                            {
+                                "folio": "1r",
+                                "folioLinkTo": "",
+                                "folioDescription": "",
+                                "systemGroups": [
+                                    [
+                                        {
+                                            "system": "4–7",
+                                            "measure": "1–2",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "9–12",
+                                            "measure": "3–4",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "14–17",
+                                            "measure": "5–6",
+                                            "linkTo": ""
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "system": "19–22",
+                                            "measure": "",
+                                            "linkTo": "",
+                                            "row": {
+                                                "rowType": "A",
+                                                "rowBase": "kko",
+                                                "rowNumber": ""
+                                            }
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
