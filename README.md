@@ -52,6 +52,12 @@ To deactivate the currently active virtual environment, simply run:
 deactivate
 ```
 
+## [SCRIPT]: convert_intro_to_md
+
+The python script in this folder converts an AWG intro JSON file (with HTML block content) to Markdown, producing one output file per locale.
+
+See [HOW TO ... convert an AWG intro JSON to Markdown?](convert_intro_to_md/README.md)
+
 ## [SCRIPT]: convert_source_description
 
 The python script in this folder converts a source description given in Word format from .docx to .json. 
@@ -63,6 +69,12 @@ See [HOW TO ... convert source-descriptions from WORD to JSON?](convert_source_d
 The python script in this folder compares the pages of two pdfs and highlights any diffs.
 
 See [HOW TO ... compare two PDF files and highlight differences?](compare_pdfs/README.md)
+
+## [SCRIPT]: unify_ids
+
+The python scripts in this folder unify SVG group IDs for TKK and link-box elements across JSON textcritics and SVG files.
+
+See [HOW TO ... unify IDs in SVG and JSON files?](unify_ids/README.md)
 
 ## Repository structure
 
