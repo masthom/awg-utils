@@ -72,9 +72,9 @@ ipywidgets==8.1.8 \
     --hash=sha256:61f969306b95f85fba6b6986b7fe45d73124d1d9e3023a8068710d47a22ea668 \
     --hash=sha256:ecaca67aed704a338f88f67b1181b58f821ab5dc89c1f0f5ef99db43c1c2921e
     # via -r requirements-notebook.in
-jedi==0.19.2 \
-    --hash=sha256:4770dc3de41bde3966b02eb84fbcf557fb33cce26ad23da12c742fb50ecb11f0 \
-    --hash=sha256:a8ef22bde8490f57fe5c7681a3c83cb58874daf72b4784de3cce5b6ef6edb5b9
+jedi==0.20.0 \
+    --hash=sha256:7bdd9c2634f56713299976f4cbd59cb3fa92165cc5e05ea811fb253480728b67 \
+    --hash=sha256:c3f4ccbd276696f4b19c54618d4fb18f9fc24b0aef02acf704b23f487daa1011
     # via ipython
 jupyter-client==8.8.0 \
     --hash=sha256:d556811419a4f2d96c869af34e854e3f059b7cc2d6d01a9cd9c85c267691be3e \
@@ -90,9 +90,9 @@ jupyterlab-widgets==3.0.16 \
     --hash=sha256:423da05071d55cf27a9e602216d35a3a65a3e41cdf9c5d3b643b814ce38c19e0 \
     --hash=sha256:45fa36d9c6422cf2559198e4db481aa243c7a32d9926b500781c830c80f7ecf8
     # via ipywidgets
-matplotlib-inline==0.2.1 \
-    --hash=sha256:d56ce5156ba6085e00a9d54fead6ed29a9c47e215cd1bba2e976ef39f5710a76 \
-    --hash=sha256:e1ee949c340d771fc39e241ea75683deb94762c8fa5f2927ec57c83c4dffa9fe
+matplotlib-inline==0.2.2 \
+    --hash=sha256:3c821cf1c209f59fb2d2d64abbf5b23b67bcb2210d663f9918dd851c6da1fcf6 \
+    --hash=sha256:72f3fe8fce36b70d4a5b612f899090cd0401deddc4ea90e1572b9f4bfb058c79
     # via
     #   ipykernel
     #   ipython
@@ -104,9 +104,9 @@ packaging==26.2 \
     --hash=sha256:5fc45236b9446107ff2415ce77c807cee2862cb6fac22b8a73826d0693b0980e \
     --hash=sha256:ff452ff5a3e828ce110190feff1178bb1f2ea2281fa2075aadb987c2fb221661
     # via ipykernel
-parso==0.8.6 \
-    --hash=sha256:2b9a0332696df97d454fa67b81618fd69c35a7b90327cbe6ba5c92d2c68a7bfd \
-    --hash=sha256:2c549f800b70a5c4952197248825584cb00f033b29c692671d3bf08bf380baff
+parso==0.8.7 \
+    --hash=sha256:a8926eb2a1b915486941fdbd31e86a4baf88fe8c210f25f2f35ecec5b574ca1c \
+    --hash=sha256:eaaac4c9fdd5e9e8852dc778d2d7405897ec510f2a298071453e5e3a07914bb1
     # via jedi
 pexpect==4.9.0 \
     --hash=sha256:7236d1e080e4936be2dc3e326cec0af72acf9212a7e1d060210e70a47e253523 \
@@ -281,9 +281,9 @@ tornado==6.5.5 \
     # via
     #   ipykernel
     #   jupyter-client
-traitlets==5.14.3 \
-    --hash=sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7 \
-    --hash=sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f
+traitlets==5.15.0 \
+    --hash=sha256:4fead733f81cf1c4c938e06f8ca4633896833c9d89eff878159457f4d4392971 \
+    --hash=sha256:fb36a18867a6803deab09f3c5e0fa81bb7b26a5c9e82501c9933f759166eff40
     # via
     #   ipykernel
     #   ipython
@@ -291,9 +291,9 @@ traitlets==5.14.3 \
     #   jupyter-client
     #   jupyter-core
     #   matplotlib-inline
-wcwidth==0.6.0 \
-    --hash=sha256:1a3a1e510b553315f8e146c54764f4fb6264ffad731b3d78088cdb1478ffbdad \
-    --hash=sha256:cdc4e4262d6ef9a1a57e018384cbeb1208d8abbc64176027e2c2455c81313159
+wcwidth==0.7.0 \
+    --hash=sha256:5d69154c429a82910e241c738cd0e2976fac8a2dd47a1a805f4afed1c0f136f2 \
+    --hash=sha256:90e3a7ea092341c44b99562e75d09e4d5160fe7a3974c6fb842a101a95e7eed0
     # via prompt-toolkit
 widgetsnbextension==4.0.15 \
     --hash=sha256:8156704e4346a571d9ce73b84bee86a29906c9abfd7223b7228a28899ccf3366 \
